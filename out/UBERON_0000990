@@ -1,0 +1,426 @@
+UBERON_0000002|uterine cervix
+UBERON_0000035|primary ovarian follicle
+UBERON_0000036|secondary ovarian follicle
+UBERON_0000037|tertiary ovarian follicle
+UBERON_0000038|follicular fluid
+UBERON_0000039|follicular antrum
+UBERON_0000051|fornix of vagina
+UBERON_0000079|male reproductive system
+UBERON_0000086|zona pellucida
+UBERON_0000155|theca cell layer
+UBERON_0000156|theca externa
+UBERON_0000157|theca interna
+UBERON_0000359|preputial gland
+UBERON_0000428|prostate epithelium
+UBERON_0000450|corpus albicans
+UBERON_0000453|decidua basalis
+UBERON_0000458|endocervix
+UBERON_0000459|uterine wall
+UBERON_0000460|major vestibular gland
+UBERON_0000461|minor vestibular gland
+UBERON_0000473|testis
+UBERON_0000474|female reproductive system
+UBERON_0000989|penis
+UBERON_0000991|gonad
+UBERON_0000992|female gonad
+UBERON_0000993|oviduct
+UBERON_0000994|spermathecum
+UBERON_0000995|uterus
+UBERON_0000996|vagina
+UBERON_0000997|mammalian vulva
+UBERON_0000998|seminal vesicle
+UBERON_0000999|ejaculatory duct
+UBERON_0001000|vas deferens
+UBERON_0001295|endometrium
+UBERON_0001296|myometrium
+UBERON_0001297|serosa of uterus
+UBERON_0001299|glans penis
+UBERON_0001300|scrotum
+UBERON_0001301|epididymis
+UBERON_0001302|right uterine tube
+UBERON_0001303|left uterine tube
+UBERON_0001304|germinal epithelium of ovary
+UBERON_0001305|ovarian follicle
+UBERON_0001306|cumulus oophorus
+UBERON_0001307|capsule of ovary
+UBERON_0001319|vaginal vein
+UBERON_0001328|lobe of prostate
+UBERON_0001329|prostate gland anterior lobe
+UBERON_0001331|skin of penis
+UBERON_0001332|prepuce of penis
+UBERON_0001337|spongiose part of urethra
+UBERON_0001340|dorsal artery of penis
+UBERON_0001342|mesovarium
+UBERON_0001343|seminiferous tubule of testis
+UBERON_0001344|epithelium of vagina
+UBERON_0001346|vaginal hymen
+UBERON_0001471|skin of prepuce of penis
+UBERON_0001472|vaginal venous plexus
+UBERON_0001987|placenta
+UBERON_0002118|right ovary
+UBERON_0002119|left ovary
+UBERON_0002247|uterine horn
+UBERON_0002337|endometrial stroma
+UBERON_0002366|bulbo-urethral gland
+UBERON_0002367|prostate gland
+UBERON_0002411|clitoris
+UBERON_0002450|decidua
+UBERON_0002451|endometrial gland
+UBERON_0002485|prostate duct
+UBERON_0002493|uterine artery
+UBERON_0002512|corpus luteum
+UBERON_0002537|hermaphrodite gonad
+UBERON_0003133|reproductive organ
+UBERON_0003134|female reproductive organ
+UBERON_0003135|male reproductive organ
+UBERON_0003218|ovary septum
+UBERON_0003312|mesenchyme of testis
+UBERON_0003315|mesenchyme of ovary
+UBERON_0003366|epithelium of uterine horn
+UBERON_0003428|gonadal fat pad
+UBERON_0003480|vein of clitoris
+UBERON_0003485|vagina sebaceous gland
+UBERON_0003855|gonad mesenchyme
+UBERON_0003885|mesometrium
+UBERON_0003889|fallopian tube
+UBERON_0003937|sex gland
+UBERON_0003946|placenta labyrinth
+UBERON_0003959|rete testis
+UBERON_0003970|placental labyrinth vasculature
+UBERON_0003972|placenta junctional zone
+UBERON_0003974|upper part of vagina
+UBERON_0003975|internal female genitalia
+UBERON_0003981|primordial ovarian follicle
+UBERON_0003982|mature ovarian follicle
+UBERON_0003984|uterine tube infundibulum
+UBERON_0004014|labium minora
+UBERON_0004021|spongiotrophoblast layer
+UBERON_0004053|external male genitalia
+UBERON_0004054|internal male genitalia
+UBERON_0004084|genital labium
+UBERON_0004085|labium majora
+UBERON_0004175|internal genitalia
+UBERON_0004176|external genitalia
+UBERON_0004179|prostate glandular acinus
+UBERON_0004183|labyrinthine layer blood vessel
+UBERON_0004184|prostate gland stroma
+UBERON_0004223|vagina smooth muscle
+UBERON_0004224|muscular coat of vas deferens
+UBERON_0004243|prostate gland smooth muscle
+UBERON_0004245|oviduct smooth muscle
+UBERON_0004346|gubernaculum (male or female)
+UBERON_0004353|female inguinal canal
+UBERON_0004354|male inguinal canal
+UBERON_0004358|caput epididymis
+UBERON_0004359|corpus epididymis
+UBERON_0004360|cauda epididymis
+UBERON_0004520|striated muscle tissue of prostate
+UBERON_0004533|left testis
+UBERON_0004534|right testis
+UBERON_0004544|epididymis epithelium
+UBERON_0004547|decidua capsularis
+UBERON_0004665|muscular coat of seminal vesicle
+UBERON_0004713|corpus cavernosum penis
+UBERON_0004801|cervix epithelium
+UBERON_0004803|penis epithelium
+UBERON_0004804|oviduct epithelium
+UBERON_0004805|seminal vesicle epithelium
+UBERON_0004806|vas deferens epithelium
+UBERON_0004811|endometrium epithelium
+UBERON_0004812|male prepuce epithelium
+UBERON_0004813|seminiferous tubule epithelium
+UBERON_0004835|epididymis smooth muscle
+UBERON_0004876|urogenital fold
+UBERON_0004909|epithelium of gonad
+UBERON_0004910|epithelium of male gonad
+UBERON_0004911|epithelium of female gonad
+UBERON_0004983|mucosa of vagina
+UBERON_0004984|mucosa of seminal vesicle
+UBERON_0004985|mucosa of ejaculatory duct
+UBERON_0004986|mucosa of deferent duct
+UBERON_0005011|mucosa of right uterine tube
+UBERON_0005012|mucosa of left uterine tube
+UBERON_0005048|mucosa of uterine tube
+UBERON_0005049|mucosa of infundibulum of uterine tube
+UBERON_0005051|mediastinum testis
+UBERON_0005056|external female genitalia
+UBERON_0005156|reproductive structure
+UBERON_0005170|granulosa cell layer
+UBERON_0005192|deferent duct artery
+UBERON_0005195|deferent duct vein
+UBERON_0005205|vagina stroma
+UBERON_0005212|Leydig cell region of testis
+UBERON_0005296|ovary sex cord
+UBERON_0005297|testis sex cord
+UBERON_0005298|skin of clitoris
+UBERON_0005299|prepuce of clitoris
+UBERON_0005301|male preputial gland
+UBERON_0005302|female preputial gland
+UBERON_0005352|spermatic cord
+UBERON_0005398|female reproductive gland
+UBERON_0005399|male reproductive gland
+UBERON_0005564|gonad primordium
+UBERON_0005796|duplex uterus
+UBERON_0005797|bipartite uterus
+UBERON_0005798|bicornuate uterus
+UBERON_0005799|simplex uterus
+UBERON_0005876|undifferentiated genital tubercle
+UBERON_0005890|gonad germinal epithelium
+UBERON_0005903|duct of seminal vesicle
+UBERON_0005904|duct of male reproductive system
+UBERON_0006233|female genital tubercle
+UBERON_0006261|male genital tubercle
+UBERON_0006435|os penis
+UBERON_0006440|os clitoris
+UBERON_0006594|gubernacular cord
+UBERON_0006608|corpus cavernosum clitoridis
+UBERON_0006610|tunica albuginea
+UBERON_0006639|crus of penis
+UBERON_0006640|crus of clitoris
+UBERON_0006641|appendix epididymis
+UBERON_0006642|muscle layer of oviduct
+UBERON_0006643|tunica albuginea of testis
+UBERON_0006644|tunica albuginea of ovary
+UBERON_0006645|adventitia of epididymis
+UBERON_0006646|muscle layer of epididymis
+UBERON_0006647|adventitia of ductus deferens
+UBERON_0006648|adventitia of seminal vesicle
+UBERON_0006650|tunica vaginalis testis
+UBERON_0006651|appendix testis
+UBERON_0006652|muscular layer of vagina
+UBERON_0006653|glans clitoris
+UBERON_0006655|septum of scrotum
+UBERON_0006656|deep dorsal vein of penis
+UBERON_0006690|deep dorsal vein of clitoris
+UBERON_0006834|uterus or analog
+UBERON_0006868|seminal fluid secreting gland
+UBERON_0006878|decidua parietalis
+UBERON_0006922|cervix squamous epithelium
+UBERON_0006923|vagina squamous epithelium
+UBERON_0006946|efferent duct
+UBERON_0006947|male genital duct
+UBERON_0006948|efferent duct epithelium
+UBERON_0006953|ejaculatory duct epithelium
+UBERON_0006955|uterine epithelium
+UBERON_0006960|ovary stroma
+UBERON_0007180|atretic follicle of ovary
+UBERON_0007181|serosa of infundibulum of uterine tube
+UBERON_0007182|muscle layer of infundibulum of uterine tube
+UBERON_0007194|vesicular gland
+UBERON_0007589|ciliated columnar oviduct epithelium
+UBERON_0007590|cuboidal oviduct epithelium
+UBERON_0007615|prostate gland ventral lobe
+UBERON_0007719|bone of reproductive organ
+UBERON_0007773|scrotal sweat gland
+UBERON_0008311|penile bulb artery
+UBERON_0008320|common penile artery
+UBERON_0008321|deep artery of penis
+UBERON_0008322|deep artery of clitoris
+UBERON_0008323|dorsal artery of clitoris
+UBERON_0008330|vestibulum vaginae
+UBERON_0008331|clitoral smooth muscle
+UBERON_0008488|cremaster muscle
+UBERON_0008715|muscle tissue of prostate
+UBERON_0008798|rugal fold of vagina
+UBERON_0008807|coagulating gland
+UBERON_0008808|prostate gland dorsolateral lobe
+UBERON_0008811|intromittent organ
+UBERON_0008812|hemipenis
+UBERON_0008824|duct of epididymis
+UBERON_0008842|suspensory ligament of testis
+UBERON_0008843|gubernaculum testis
+UBERON_0008844|gubernaculum (female)
+UBERON_0008847|ovarian ligament
+UBERON_0008848|cranial suspensory ligament
+UBERON_0008855|placenta metrial gland
+UBERON_0008935|gastropod albumen gland
+UBERON_0008936|gastropod genital pore
+UBERON_0008975|oviduct shell gland
+UBERON_0009002|placental membrane
+UBERON_0009020|left uterine horn
+UBERON_0009022|right uterine horn
+UBERON_0009042|prostatic venous plexus
+UBERON_0009098|gravid uterus
+UBERON_0009117|indifferent gonad
+UBERON_0009196|indifferent external genitalia
+UBERON_0009645|ampullary gland
+UBERON_0009853|body of uterus
+UBERON_0010005|placental labyrinth villous
+UBERON_0010006|placenta intervillous maternal lacunae
+UBERON_0010007|placenta fetal blood space
+UBERON_0010008|placental cotyledon
+UBERON_0010041|median ovary
+UBERON_0010141|primitive sex cord of indifferent gonad
+UBERON_0010145|paraurethral gland
+UBERON_0010146|paraurethral duct
+UBERON_0010147|male accessory sex gland
+UBERON_0010150|duct of major vestibular gland
+UBERON_0010151|duct of bulbourethral gland
+UBERON_0010185|rete ovarii
+UBERON_0010391|parametrium
+UBERON_0010412|epididymal fat pad
+UBERON_0010413|parametrial fat pad
+UBERON_0010516|clasper
+UBERON_0010517|cephalic clasper
+UBERON_0010518|pelvic fin clasper
+UBERON_0011183|corpus spongiosum of penis
+UBERON_0011283|epoophoron
+UBERON_0011298|submucosa of uterine tube
+UBERON_0011374|prepuce
+UBERON_0011375|skin of prepuce of clitoris
+UBERON_0011379|male external urethral sphincter
+UBERON_0011380|female external urethral sphincter
+UBERON_0011388|male bulbospongiosus muscle
+UBERON_0011754|genital swelling
+UBERON_0011755|female labial swelling
+UBERON_0011756|male genital swelling
+UBERON_0011757|differentiated genital tubercle
+UBERON_0011826|vestibular gland
+UBERON_0011830|duct of lesser vestibular gland
+UBERON_0011831|duct of vestibular gland
+UBERON_0011879|mesorchium
+UBERON_0011894|lumen of vagina
+UBERON_0011949|endometrium luminal epithelium
+UBERON_0011951|prostate luminal epithelium
+UBERON_0012186|ovary growing follicle
+UBERON_0012241|male urethral meatus
+UBERON_0012247|cervical gland
+UBERON_0012248|cervical mucosa
+UBERON_0012249|ectocervix
+UBERON_0012250|cervix glandular epithelium
+UBERON_0012251|ectocervical epithelium
+UBERON_0012252|endocervical epithelium
+UBERON_0012253|cervical squamo-columnar junction
+UBERON_0012276|endometrium glandular epithelium
+UBERON_0012294|navicular fossa of spongiose part of urethra
+UBERON_0012295|Guérin's valve
+UBERON_0012317|vagina orifice
+UBERON_0012326|gubernacular bulb
+UBERON_0012327|pearly penile papule
+UBERON_0012328|penile spine
+UBERON_0012487|vaginal sphincter
+UBERON_0012499|serosa of uterine tube
+UBERON_0012648|ampulla of uterine tube
+UBERON_0013128|bulb of penis
+UBERON_0013129|bulb of vestibule
+UBERON_0013191|ovarian cortex
+UBERON_0013192|ovarian medulla
+UBERON_0013237|genital papilla of vulva
+UBERON_0013238|future glans
+UBERON_0013239|future glans penis
+UBERON_0013240|future glans clitoris
+UBERON_0013247|male paramesonephric duct
+UBERON_0013248|paradidymis
+UBERON_0013249|paroophoron
+UBERON_0013250|vesicular appendage of epoophoron
+UBERON_0013262|remnnant of ductus deferens
+UBERON_0013277|remnant of processus vaginalis
+UBERON_0013278|canal of Nuck
+UBERON_0013515|subdivision of oviduct
+UBERON_0013516|uterine tube magnum
+UBERON_0013519|avian uterine tube isthmus
+UBERON_0013523|lateral vaginal canal
+UBERON_0013524|median vaginal canal
+UBERON_0013637|prostate gland lateral lobe
+UBERON_0013672|priapium
+UBERON_0013673|os priapium
+UBERON_0013674|ctenactinium
+UBERON_0013675|toxactinium
+UBERON_0013676|aproctal bone of priapium
+UBERON_0013677|serrated projection of ctenactinium
+UBERON_0013719|dartos muscle of scrotum
+UBERON_0013720|dartos muscle of labia majora
+UBERON_0013758|cervical os
+UBERON_0013759|internal cervical os
+UBERON_0013760|external cervical os
+UBERON_0013769|uterine lumen
+UBERON_0014394|uterine fat pad
+UBERON_0014458|female bulbospongiosus muscle
+UBERON_0014849|hemotrichorial placental membrane
+UBERON_0014850|hemomonochorial placental membrane
+UBERON_0014914|blood-testis barrier
+UBERON_0015130|connective tissue of prostate gland
+UBERON_0015131|subepithelial connective tissue of prostatic gland
+UBERON_0015171|uterine spiral artery
+UBERON_0015172|endometrial blood vessel
+UBERON_0015173|helicine branch of uterine artery
+UBERON_0015174|helicine artery of penis
+UBERON_0015177|helicine artery
+UBERON_0015243|lower part of vagina
+UBERON_0015479|scrotum skin
+UBERON_0015717|smooth muscle tissue layer of ejaculatory duct
+UBERON_0015792|prostate gland dorsal lobe
+UBERON_0016408|corona of glans penis
+UBERON_0016409|base of glans penis
+UBERON_0016486|posterior fornix of vagina
+UBERON_0016487|anterior fornix of vagina
+UBERON_0016505|Mullerian tubercle
+UBERON_0016524|muscle layer of spongiose part of urethra
+UBERON_0016632|isthmus of fallopian tube
+UBERON_0017161|hemipenial mucuous gland
+UBERON_0017162|hemipenial holocrine gland
+UBERON_0017180|hemipenis keratinized epithelium
+UBERON_0017258|placentome of cotyledonary placenta
+UBERON_0017259|placental caruncle
+UBERON_0017294|horn of hemipenis
+UBERON_0017623|prepelvic clasper
+UBERON_0017624|pseudoclasper
+UBERON_0017732|raphe of scrotum
+UBERON_0018131|periovarian fat pad
+UBERON_0018134|rugal fold of scrotum
+UBERON_0018315|clasper plate
+UBERON_0018319|extramural oviduct
+UBERON_0018343|oviduct mucosal fold
+UBERON_0018529|female inguinal ring
+UBERON_0018530|male inguinal ring
+UBERON_0018531|female superficial inguinal ring
+UBERON_0018532|female deep inguinal ring
+UBERON_0019042|reproductive system mucosa
+UBERON_0019197|dorsal nerve of penis
+UBERON_0019198|dorsal nerve of clitoris
+UBERON_0022355|basal layer of endometrium
+UBERON_0022356|outer layer of endometrium
+UBERON_0022358|placenta blood vessel
+UBERON_0034691|internal spermatic fascia
+UBERON_0034694|gubernacular bulb, intra-abdominal part
+UBERON_0034695|gubernacular bulb, extra-abdominal part
+UBERON_0034735|oviduct albumen gland
+UBERON_0034770|bulbourethral gland epithelium
+UBERON_0034963|lateral fornix of vagina
+UBERON_0035004|preputial swelling
+UBERON_0035005|preputial swelling of male
+UBERON_0035006|preputial swelling of female
+UBERON_0035098|hemipenis transversus muscle
+UBERON_0035104|raphe of penis
+UBERON_0035105|sac of scrotum
+UBERON_0035142|preputial space of male
+UBERON_0035143|preputial space of female
+UBERON_0035144|preputial space
+UBERON_0035258|mons pubis
+UBERON_0035310|inferolateral surface of prostate
+UBERON_0035316|prostatic capsule
+UBERON_0035331|base of prostate
+UBERON_0035341|posterior lobe of prostate
+UBERON_0035441|apex of prostate
+UBERON_0035465|endometrial cavity
+UBERON_0035651|glans
+UBERON_0035766|median lobe of prostate
+UBERON_0035962|supravaginal part of cervix
+UBERON_2001118|urogenital papilla
+UBERON_2001263|ovarian follicle stage I
+UBERON_2001265|ovarian follicle stage II
+UBERON_2001266|ovarian follicle stage III
+UBERON_2001571|postovulatory follicle
+UBERON_2002114|cotylephore
+UBERON_2002117|ovipositor
+UBERON_2005272|immature gonad
+UBERON_3000041|Bidder's organ
+UBERON_3010240|Nobelian rod
+UBERON_3010259|phallodeum
+UBERON_3010260|intromittent organ (Ascaphus type)
+UBERON_3010529|ovisac
+UBERON_3010586|vasa efferentia
+UBERON_3010780|pars recta
+UBERON_3010781|pars convoluta of oviduct
+UBERON_4100111|hemipenal sheath
+UBERON_4300018|ventral marginal cartilage

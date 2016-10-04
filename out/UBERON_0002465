@@ -1,0 +1,182 @@
+UBERON_0000029|lymph node
+UBERON_0000444|lymphoid follicle
+UBERON_0001097|axillary lymph node
+UBERON_0001211|Peyer's patch
+UBERON_0001249|spleen lymphoid follicle
+UBERON_0001422|facial lymphatic vessel
+UBERON_0001425|pectoral lymphatic vessel
+UBERON_0001426|jugular lymphatic vessel
+UBERON_0001473|lymphatic vessel
+UBERON_0001542|inguinal lymph node
+UBERON_0001543|popliteal lymph node
+UBERON_0001631|thoracic duct
+UBERON_0001732|pharyngeal tonsil
+UBERON_0001735|tonsillar ring
+UBERON_0001744|lymphoid tissue
+UBERON_0001745|secondary nodular lymphoid tissue
+UBERON_0001960|periarterial lymphatic sheath
+UBERON_0001961|mucosa-associated lymphoid tissue
+UBERON_0001962|gut-associated lymphoid tissue
+UBERON_0001963|bronchial-associated lymphoid tissue
+UBERON_0002006|cortex of lymph node
+UBERON_0002007|medulla of lymph node
+UBERON_0002042|lymphatic vessel endothelium
+UBERON_0002195|trabecula of lymph node
+UBERON_0002372|tonsil
+UBERON_0002373|palatine tonsil
+UBERON_0002429|cervical lymph node
+UBERON_0002507|abdominal lymph node
+UBERON_0002508|celiac lymph node
+UBERON_0002509|mesenteric lymph node
+UBERON_0002520|submandibular lymph node
+UBERON_0002524|mediastinal lymph node
+UBERON_0002525|brachial lymph node
+UBERON_0002526|lumbar lymph node
+UBERON_0002527|pancreatic lymph node
+UBERON_0002528|sacral lymph node
+UBERON_0003425|renal lymph node
+UBERON_0003453|large intestine Peyer's patch
+UBERON_0003454|small intestine Peyer's patch
+UBERON_0003456|respiratory system lymphatic vessel
+UBERON_0003483|thymus lymphoid tissue
+UBERON_0003529|respiratory system lymphatic vessel endothelium
+UBERON_0003949|tubal tonsil
+UBERON_0003968|peripheral lymph node
+UBERON_0004041|spleen primary B follicle
+UBERON_0004042|spleen secondary B follicle
+UBERON_0004232|lymphatic vessel smooth muscle
+UBERON_0004296|respiratory system lymphatic vessel smooth muscle
+UBERON_0004536|lymph vasculature
+UBERON_0004693|Peyer's patch epithelium
+UBERON_0004697|Peyer's patch germinal center
+UBERON_0004722|deep cervical lymph node
+UBERON_0004850|lymph node endothelium
+UBERON_0004870|superficial cervical lymph node
+UBERON_0005196|spleen germinal center
+UBERON_0005207|tonsil capsule
+UBERON_0005435|cisterna chyli
+UBERON_0005463|subcapsular sinus of lymph node
+UBERON_0006558|lymphatic part of lymphoid system
+UBERON_0006561|non-lymphatic part of lymphoid system
+UBERON_0006842|lymphatic capillary
+UBERON_0007250|lingual tonsil
+UBERON_0007384|appendage lymph vessel
+UBERON_0007385|pectoral appendage lymph vessel
+UBERON_0007386|pelvic appendage lymph vessel
+UBERON_0007643|node of ligamentum arteriosum
+UBERON_0007644|thoracic lymph node
+UBERON_0009006|deep inguinal lymph node
+UBERON_0009007|superficial inguinal lymph node
+UBERON_0009039|lymph node germinal center
+UBERON_0009744|lymph node medullary sinus
+UBERON_0009745|lymph node medullary cord
+UBERON_0010386|Peyer's patch follicle
+UBERON_0010387|Peyer's patch T cell area
+UBERON_0010392|B cell domain
+UBERON_0010393|T cell domain
+UBERON_0010394|lymphocyte domain
+UBERON_0010395|lymph node primary follicle
+UBERON_0010396|afferent lymphatic vessel
+UBERON_0010397|efferent lymphatic vessel
+UBERON_0010416|lymph node B cell domain
+UBERON_0010417|lymph node T cell domain
+UBERON_0010420|lymph node follicular corona
+UBERON_0010421|spleen B cell corona
+UBERON_0010422|primary nodular lymphoid tissue
+UBERON_0010423|primary lymphoid nodule of tonsil
+UBERON_0010748|lymph node follicle
+UBERON_0010753|lymph node secondary follicle
+UBERON_0010754|germinal center
+UBERON_0010755|secondary follicle corona
+UBERON_0010756|spleen follicular dendritic cell network
+UBERON_0011363|cranial lymph vasculature
+UBERON_0011765|jugular lymph sac
+UBERON_0012069|epithelium-associated lymphoid tissue
+UBERON_0012181|tonsil crypt
+UBERON_0012236|intercostal lymph node
+UBERON_0012306|lateral cervical lymph node
+UBERON_0012307|anterior cervical lymph node
+UBERON_0012308|superficial lateral cervical lymph node
+UBERON_0012309|superficial anterior cervical lymph node
+UBERON_0012310|deep lateral cervical lymph node
+UBERON_0012311|deep anterior cervical lymph node
+UBERON_0012330|nasal-associated lymphoid tissue
+UBERON_0013478|cecal tonsil
+UBERON_0013688|tonsil germinal center
+UBERON_0013689|appendix lymphoid tissue
+UBERON_0013696|tonsil epithelium
+UBERON_0015453|subcutaneous lymph node
+UBERON_0015469|splenic lymph node
+UBERON_0015472|tracheobronchial lymph node
+UBERON_0015857|parotid lymph node
+UBERON_0015859|hepatic lymph node
+UBERON_0015860|visceral abdominal lymph node
+UBERON_0015863|gastric lymph node
+UBERON_0015865|pancreaticosplenic lymph node
+UBERON_0015866|pyloric lymph node
+UBERON_0015867|cystic lymph node
+UBERON_0015868|lymph node of epiploic foramen
+UBERON_0015869|retropharyngeal lymph node
+UBERON_0015870|lymph node of head
+UBERON_0015871|facial lymph node
+UBERON_0015872|mandibular lymph node
+UBERON_0015876|pelvic lymph node
+UBERON_0015877|parietal pelvic lymph node
+UBERON_0015878|common iliac lymph node
+UBERON_0015880|external iliac lymph node
+UBERON_0015881|internal iliac lymph node
+UBERON_0015883|gluteal lymph node
+UBERON_0015884|presymphysial lymph node
+UBERON_0015895|proximal deep inguinal lymph node
+UBERON_0015917|superficial lymph node
+UBERON_0015918|deep lymph node
+UBERON_0015922|accessory mandibular lymph node
+UBERON_0015923|superficial parotid lymph node
+UBERON_0015925|superficial intraparotid lymph node
+UBERON_0015926|cranial deep lymph node
+UBERON_0016374|sciatic lymph node
+UBERON_0016378|ileocolic lymph node
+UBERON_0016382|prescapular lymph node
+UBERON_0016386|paraaortic lymph node
+UBERON_0016390|auricular lymph node
+UBERON_0016391|thymic lymph node
+UBERON_0016392|mastoid lymph node
+UBERON_0016393|deep parotid lymph node
+UBERON_0016394|anterior auricular lymph node
+UBERON_0016395|infra-auricular lymph node
+UBERON_0016396|intraglandular lymph node
+UBERON_0016397|submental lymph node
+UBERON_0016398|lymph node of lower limb
+UBERON_0016399|lymph node of upper limb
+UBERON_0016401|pancreaticoduodenal lymph node
+UBERON_0016402|mesocolic lymph node
+UBERON_0016481|bronchial lymph node
+UBERON_0018226|pulmonary part of lymphatic system
+UBERON_0018227|pulmonary lymphatic vessel
+UBERON_0018410|lacteal
+UBERON_0034949|lymphatic valve
+UBERON_0034950|lymph sac
+UBERON_0034951|subcutaneous lymph sac
+UBERON_0034952|intrapleuroperitoneal lymph sac
+UBERON_0034953|embryonic lymph sac
+UBERON_0034958|retroperitoneal embryonic lymph sac
+UBERON_0035079|deep intraparotid lymph node
+UBERON_0035080|intraparotid lymph node
+UBERON_0035162|infraclavicular lymph node
+UBERON_0035171|obturator lymph node
+UBERON_0035198|superficial lymphatic vessel
+UBERON_0035204|occipital lymph node
+UBERON_0035219|parasternal lymph node
+UBERON_0035228|tonsillar fossa
+UBERON_0035279|supraclavicular lymph node
+UBERON_0035371|retroperitoneal lymph node
+UBERON_0035495|hilum of lymph node
+UBERON_0035520|anterior mediastinal lymph node
+UBERON_0035545|deep lymphatic vessel
+UBERON_0035608|dura mater lymph vessel
+UBERON_0035764|pulmonary lymph node
+UBERON_0035765|subsegmental lymph node
+UBERON_2005106|longitudinal lateral lymphatic vessel
+UBERON_2005303|caudal fin lymph vessel
+UBERON_2005319|intersegmental lymph vessel
+UBERON_2005320|dorsal longitudinal lymphatic vessel

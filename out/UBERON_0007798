@@ -1,0 +1,1065 @@
+UBERON_0000102|lung vasculature
+UBERON_0000415|artery wall
+UBERON_0000442|right testicular vein
+UBERON_0000443|left testicular vein
+UBERON_0000457|cavernous artery
+UBERON_0000947|aorta
+UBERON_0000985|axillary vein
+UBERON_0001070|external carotid artery
+UBERON_0001071|superficial cervical artery
+UBERON_0001072|posterior vena cava
+UBERON_0001081|endocardium of ventricle
+UBERON_0001099|subcostal vein
+UBERON_0001101|external jugular vein
+UBERON_0001104|anterior jugular vein
+UBERON_0001106|cephalic vein
+UBERON_0001138|superior mesenteric vein
+UBERON_0001139|common iliac vein
+UBERON_0001140|renal vein
+UBERON_0001141|right renal vein
+UBERON_0001142|left renal vein
+UBERON_0001143|hepatic vein
+UBERON_0001144|testicular vein
+UBERON_0001145|ovarian vein
+UBERON_0001146|suprarenal vein
+UBERON_0001182|superior mesenteric artery
+UBERON_0001183|inferior mesenteric artery
+UBERON_0001184|renal artery
+UBERON_0001185|right renal artery
+UBERON_0001186|left renal artery
+UBERON_0001187|testicular artery
+UBERON_0001188|right testicular artery
+UBERON_0001189|left testicular artery
+UBERON_0001190|ovarian artery
+UBERON_0001191|common iliac artery
+UBERON_0001192|left gastric artery
+UBERON_0001193|hepatic artery
+UBERON_0001194|splenic artery
+UBERON_0001195|inferior pancreaticoduodenal artery
+UBERON_0001196|middle colic artery
+UBERON_0001197|ileocolic artery
+UBERON_0001198|superior suprarenal artery
+UBERON_0001214|pancreatic tributary of splenic vein
+UBERON_0001215|inferior mesenteric vein
+UBERON_0001216|jejunal vein
+UBERON_0001217|ileal vein
+UBERON_0001218|middle colic vein
+UBERON_0001219|ileocolic vein
+UBERON_0001281|hepatic sinusoid
+UBERON_0001308|external iliac artery
+UBERON_0001309|internal iliac artery
+UBERON_0001310|umbilical artery
+UBERON_0001311|inferior vesical artery
+UBERON_0001312|superior vesical artery
+UBERON_0001313|iliolumbar artery
+UBERON_0001314|obturator artery
+UBERON_0001315|superior gluteal artery
+UBERON_0001316|external iliac vein
+UBERON_0001317|internal iliac vein
+UBERON_0001318|inferior vesical vein
+UBERON_0001319|vaginal vein
+UBERON_0001320|iliolumbar vein
+UBERON_0001321|obturator vein
+UBERON_0001330|pampiniform plexus
+UBERON_0001340|dorsal artery of penis
+UBERON_0001354|inferior epigastric artery
+UBERON_0001355|deep femoral artery
+UBERON_0001356|medial circumflex femoral artery
+UBERON_0001357|inferior rectal artery
+UBERON_0001358|perineal artery
+UBERON_0001360|deep circumflex iliac vein
+UBERON_0001361|femoral vein
+UBERON_0001362|perineal vein
+UBERON_0001363|great saphenous vein
+UBERON_0001390|sural artery
+UBERON_0001394|axillary artery
+UBERON_0001395|thoraco-acromial artery
+UBERON_0001396|lateral thoracic artery
+UBERON_0001397|subscapular artery
+UBERON_0001398|brachial artery
+UBERON_0001399|deep brachial artery
+UBERON_0001404|radial artery
+UBERON_0001406|ulnar artery
+UBERON_0001410|common palmar digital artery
+UBERON_0001411|basilic vein
+UBERON_0001412|common palmar digital vein
+UBERON_0001413|brachial vein
+UBERON_0001414|median basilic vein
+UBERON_0001420|subscapular vein
+UBERON_0001422|facial lymphatic vessel
+UBERON_0001425|pectoral lymphatic vessel
+UBERON_0001426|jugular lymphatic vessel
+UBERON_0001472|vaginal venous plexus
+UBERON_0001473|lymphatic vessel
+UBERON_0001496|ascending aorta
+UBERON_0001508|arch of aorta
+UBERON_0001514|descending aorta
+UBERON_0001515|thoracic aorta
+UBERON_0001516|abdominal aorta
+UBERON_0001529|brachiocephalic artery
+UBERON_0001530|common carotid artery plus branches
+UBERON_0001531|right common carotid artery plus branches
+UBERON_0001532|internal carotid artery
+UBERON_0001533|subclavian artery
+UBERON_0001534|right subclavian artery
+UBERON_0001535|vertebral artery
+UBERON_0001536|left common carotid artery plus branches
+UBERON_0001537|anterior tibial artery
+UBERON_0001538|posterior tibial artery
+UBERON_0001539|dorsalis pedis artery
+UBERON_0001540|peroneal artery
+UBERON_0001541|medial plantar artery
+UBERON_0001544|popliteal vein
+UBERON_0001545|anterior tibial vein
+UBERON_0001546|posterior tibial vein
+UBERON_0001547|small saphenous vein
+UBERON_0001548|lateral marginal vein
+UBERON_0001549|dorsal metatarsal vein
+UBERON_0001550|medial marginal vein
+UBERON_0001551|vein of hindlimb zeugopod
+UBERON_0001552|kidney arcuate artery
+UBERON_0001553|medial tarsal artery
+UBERON_0001561|subcostal artery
+UBERON_0001584|left subclavian artery
+UBERON_0001585|anterior vena cava
+UBERON_0001586|internal jugular vein
+UBERON_0001587|subclavian vein
+UBERON_0001588|vertebral vein
+UBERON_0001589|internal thoracic vein
+UBERON_0001590|pericardiacophrenic vein
+UBERON_0001591|thymic vein
+UBERON_0001592|bronchial vein
+UBERON_0001593|venous plexus
+UBERON_0001594|azygos vein
+UBERON_0001610|lingual artery
+UBERON_0001611|sublingual artery
+UBERON_0001612|facial artery
+UBERON_0001613|occipital artery
+UBERON_0001614|superficial temporal artery
+UBERON_0001615|transverse facial artery
+UBERON_0001616|maxillary artery
+UBERON_0001617|mental artery
+UBERON_0001618|buccal artery
+UBERON_0001619|ophthalmic artery
+UBERON_0001620|central retinal artery
+UBERON_0001621|coronary artery
+UBERON_0001622|lacrimal artery
+UBERON_0001623|dorsal nasal artery
+UBERON_0001624|anterior cerebral artery
+UBERON_0001625|right coronary artery
+UBERON_0001626|left coronary artery
+UBERON_0001627|middle cerebral artery
+UBERON_0001628|posterior communicating artery
+UBERON_0001629|carotid body
+UBERON_0001631|thoracic duct
+UBERON_0001632|temporal artery
+UBERON_0001633|basilar artery
+UBERON_0001634|mesencephalic artery
+UBERON_0001635|superior cerebellar artery
+UBERON_0001636|posterior cerebral artery
+UBERON_0001637|artery
+UBERON_0001638|vein
+UBERON_0001639|hepatic portal vein
+UBERON_0001640|celiac artery
+UBERON_0001641|transverse sinus
+UBERON_0001642|superior sagittal sinus
+UBERON_0001651|right pulmonary artery
+UBERON_0001652|left pulmonary artery
+UBERON_0001653|facial vein
+UBERON_0001654|supraorbital vein
+UBERON_0001655|submental vein
+UBERON_0001656|retromandibular vein
+UBERON_0001657|superficial temporal vein
+UBERON_0001658|middle temporal vein
+UBERON_0001659|transverse facial vein
+UBERON_0001660|maxillary vein
+UBERON_0001661|deep temporal vein
+UBERON_0001662|anterior auricular vein
+UBERON_0001663|cerebral vein
+UBERON_0001664|inferior cerebral vein
+UBERON_0001668|cerebellar vein
+UBERON_0001669|superior cerebellar vein
+UBERON_0001670|inferior cerebellar vein
+UBERON_0001671|temporal vein
+UBERON_0001672|anterior cerebral vein
+UBERON_0001673|central retinal vein
+UBERON_0001674|masseteric vein
+UBERON_0001776|optic choroid
+UBERON_0001886|choroid plexus
+UBERON_0001915|endothelium of capillary
+UBERON_0001916|endothelium of arteriole
+UBERON_0001917|endothelium of artery
+UBERON_0001918|endothelium of venule
+UBERON_0001919|endothelium of vein
+UBERON_0001979|venule
+UBERON_0001980|arteriole
+UBERON_0001981|blood vessel
+UBERON_0001982|capillary
+UBERON_0002011|thoracodorsal artery
+UBERON_0002012|pulmonary artery
+UBERON_0002016|pulmonary vein
+UBERON_0002017|portal vein
+UBERON_0002039|inferior phrenic vein
+UBERON_0002040|bronchial artery
+UBERON_0002042|lymphatic vessel endothelium
+UBERON_0002049|vasculature
+UBERON_0002056|inferior suprarenal artery
+UBERON_0002057|phrenic artery
+UBERON_0002060|femoral artery
+UBERON_0002061|truncus arteriosus
+UBERON_0002062|endocardial cushion
+UBERON_0002064|common cardinal vein
+UBERON_0002065|posterior cardinal vein
+UBERON_0002066|umbilical vein
+UBERON_0002070|superior pancreaticoduodenal artery
+UBERON_0002083|ductus venosus
+UBERON_0002088|lateral thoracic vein
+UBERON_0002089|thoracodorsal vein
+UBERON_0002111|artery smooth muscle tissue
+UBERON_0002165|endocardium
+UBERON_0002166|endocardium of atrium
+UBERON_0002200|vasculature of head
+UBERON_0002201|vasculature of trunk
+UBERON_0002203|vasculature of eye
+UBERON_0002243|cutaneous vein
+UBERON_0002249|median artery
+UBERON_0002250|popliteal artery
+UBERON_0002270|hyaloid artery
+UBERON_0002288|choroid plexus of third ventricle
+UBERON_0002290|choroid plexus of fourth ventricle
+UBERON_0002307|choroid plexus of lateral ventricle
+UBERON_0002320|glomerular mesangium
+UBERON_0002333|pulmonary trunk
+UBERON_0002345|descending thoracic aorta
+UBERON_0002443|choroidal blood vessel
+UBERON_0002454|dorsal metacarpal artery
+UBERON_0002455|common plantar digital arteries
+UBERON_0002456|internal thoracic artery
+UBERON_0002457|intersomitic artery
+UBERON_0002458|spinal artery
+UBERON_0002459|inferior palpebral vein
+UBERON_0002460|vesical vein
+UBERON_0002493|uterine artery
+UBERON_0002505|spiral modiolar artery
+UBERON_0002522|tunica media
+UBERON_0002523|tunica intima
+UBERON_0003085|ventral aorta
+UBERON_0003086|caudal artery
+UBERON_0003087|anterior cardinal vein
+UBERON_0003088|caudal vein
+UBERON_0003105|dorsal lateral plate region
+UBERON_0003118|pharyngeal arch artery 1
+UBERON_0003119|pharyngeal arch artery 2
+UBERON_0003120|pharyngeal arch artery 3
+UBERON_0003121|pharyngeal arch artery 4
+UBERON_0003122|pharyngeal arch artery 5
+UBERON_0003123|pharyngeal arch artery 6
+UBERON_0003210|blood-cerebrospinal fluid barrier
+UBERON_0003304|mesoderm blood island
+UBERON_0003456|respiratory system lymphatic vessel
+UBERON_0003468|ureteric segment of renal artery
+UBERON_0003469|respiratory system artery
+UBERON_0003470|artery of upper lip
+UBERON_0003471|artery of lower lip
+UBERON_0003472|cerebellar artery
+UBERON_0003473|thoracic cavity artery
+UBERON_0003474|meningeal artery
+UBERON_0003475|ureteric vein
+UBERON_0003476|respiratory system venous blood vessel
+UBERON_0003477|vein of upper lip
+UBERON_0003478|vein of lower lip
+UBERON_0003479|thoracic cavity vein
+UBERON_0003480|vein of clitoris
+UBERON_0003481|tail vein
+UBERON_0003482|vein of trabecular bone
+UBERON_0003489|respiratory system capillary endothelium
+UBERON_0003494|respiratory system venule
+UBERON_0003495|respiratory system arteriole
+UBERON_0003496|head blood vessel
+UBERON_0003497|abdomen blood vessel
+UBERON_0003498|heart blood vessel
+UBERON_0003499|brain blood vessel
+UBERON_0003500|corneal blood vessel
+UBERON_0003501|retina blood vessel
+UBERON_0003502|neck blood vessel
+UBERON_0003503|leg blood vessel
+UBERON_0003504|respiratory system blood vessel
+UBERON_0003505|trachea blood vessel
+UBERON_0003506|chest blood vessel
+UBERON_0003507|arm blood vessel
+UBERON_0003508|pedal digit blood vessel
+UBERON_0003509|arterial blood vessel
+UBERON_0003510|eyelid blood vessel
+UBERON_0003511|iris blood vessel
+UBERON_0003512|lung blood vessel
+UBERON_0003513|trunk blood vessel
+UBERON_0003514|limb blood vessel
+UBERON_0003515|forelimb blood vessel
+UBERON_0003516|hindlimb blood vessel
+UBERON_0003517|kidney blood vessel
+UBERON_0003518|main bronchus blood vessel
+UBERON_0003519|thoracic cavity blood vessel
+UBERON_0003520|pelvis blood vessel
+UBERON_0003521|pes blood vessel
+UBERON_0003522|manual digit blood vessel
+UBERON_0003523|manus blood vessel
+UBERON_0003524|tail blood vessel
+UBERON_0003526|respiratory system capillary
+UBERON_0003527|kidney capillary
+UBERON_0003529|respiratory system lymphatic vessel endothelium
+UBERON_0003609|aorta elastic tissue
+UBERON_0003614|blood vessel elastic tissue
+UBERON_0003618|aorta tunica media
+UBERON_0003619|aorta tunica intima
+UBERON_0003643|respiratory system arterial blood vessel
+UBERON_0003644|kidney arterial blood vessel
+UBERON_0003707|sinus of Valsalva
+UBERON_0003708|carotid sinus
+UBERON_0003709|circle of Willis
+UBERON_0003710|vasa vasorum
+UBERON_0003711|brachiocephalic vein
+UBERON_0003712|cavernous sinus
+UBERON_0003713|splenic vein
+UBERON_0003834|thoracic segment blood vessel
+UBERON_0003835|abdominal segment blood vessel
+UBERON_0003847|thyroid artery
+UBERON_0003848|gonadal vein
+UBERON_0003909|sinusoid
+UBERON_0003910|splenic sinusoid
+UBERON_0003911|choroid plexus epithelium
+UBERON_0003920|venous blood vessel
+UBERON_0003930|atrioventricular canal endocardium
+UBERON_0003957|Bruch's membrane
+UBERON_0003970|placental labyrinth vasculature
+UBERON_0004019|baroreceptor
+UBERON_0004029|canal of Schlemm
+UBERON_0004030|aqueous vein
+UBERON_0004087|vena cava
+UBERON_0004115|blood vessel of tympanic cavity
+UBERON_0004118|vasculature of iris
+UBERON_0004148|cardiac vein
+UBERON_0004162|pulmonary myocardium
+UBERON_0004178|aorta smooth muscle tissue
+UBERON_0004183|labyrinthine layer blood vessel
+UBERON_0004189|glomerular endothelium
+UBERON_0004190|renal glomerulus vasculature
+UBERON_0004212|glomerular capillary
+UBERON_0004232|lymphatic vessel smooth muscle
+UBERON_0004236|arteriole smooth muscle
+UBERON_0004237|blood vessel smooth muscle
+UBERON_0004257|upper leg blood vessel
+UBERON_0004258|back blood vessel
+UBERON_0004259|lower arm blood vessel
+UBERON_0004260|upper arm blood vessel
+UBERON_0004261|lower leg blood vessel
+UBERON_0004274|lateral ventricle choroid plexus epithelium
+UBERON_0004275|third ventricle choroid plexus epithelium
+UBERON_0004276|fourth ventricle choroid plexus epithelium
+UBERON_0004294|glomerular capillary endothelium
+UBERON_0004296|respiratory system lymphatic vessel smooth muscle
+UBERON_0004297|respiratory system blood vessel smooth muscle
+UBERON_0004344|cardinal vein
+UBERON_0004363|pharyngeal arch artery
+UBERON_0004365|vitelline blood vessel
+UBERON_0004374|vitelline vasculature
+UBERON_0004449|cerebral artery
+UBERON_0004450|gastric vein
+UBERON_0004521|vasculature of muscle organ
+UBERON_0004522|vasculature of musculoskeletal system
+UBERON_0004536|lymph vasculature
+UBERON_0004537|blood vasculature
+UBERON_0004540|proper plantar digital artery
+UBERON_0004552|digital artery
+UBERON_0004553|forelimb digital artery
+UBERON_0004554|hindlimb digital artery
+UBERON_0004561|proper palmar digital vein
+UBERON_0004562|digital vein
+UBERON_0004563|forelimb digital vein
+UBERON_0004564|hindlimb digital vein
+UBERON_0004571|systemic arterial system
+UBERON_0004572|arterial system
+UBERON_0004573|systemic artery
+UBERON_0004581|systemic venous system
+UBERON_0004582|venous system
+UBERON_0004638|blood vessel endothelium
+UBERON_0004639|renal afferent arteriole
+UBERON_0004640|renal efferent arteriole
+UBERON_0004646|infraorbital artery
+UBERON_0004663|aorta wall
+UBERON_0004664|aorta tunica adventitia
+UBERON_0004688|costo-cervical trunk
+UBERON_0004689|naso-frontal vein
+UBERON_0004690|pancreaticoduodenal vein
+UBERON_0004695|arterial system smooth muscle
+UBERON_0004696|venous system smooth muscle
+UBERON_0004698|vena cava endothelium
+UBERON_0004700|arterial system endothelium
+UBERON_0004701|venous system endothelium
+UBERON_0004702|respiratory system blood vessel endothelium
+UBERON_0004711|jugular vein
+UBERON_0004719|kidney arcuate vein
+UBERON_0004722|deep cervical lymph node
+UBERON_0004723|interlobular artery
+UBERON_0004726|vasa recta
+UBERON_0004775|outer renal medulla vasa recta
+UBERON_0004776|inner renal medulla vasa recta
+UBERON_0004797|blood vessel layer
+UBERON_0004848|respiratory system arterial endothelium
+UBERON_0004849|respiratory system venous endothelium
+UBERON_0004851|aorta endothelium
+UBERON_0004864|vasculature of retina
+UBERON_0004870|superficial cervical lymph node
+UBERON_0004889|lobar bronchus vasculature
+UBERON_0005119|metanephric glomerular mesangium
+UBERON_0005133|metanephric glomerulus vasculature
+UBERON_0005136|metanephric glomerular endothelium
+UBERON_0005144|metanephric glomerular capillary
+UBERON_0005168|renal interlobular vein
+UBERON_0005192|deferent duct artery
+UBERON_0005193|ethmoidal artery
+UBERON_0005194|thoracic vein
+UBERON_0005195|deferent duct vein
+UBERON_0005206|choroid plexus stroma
+UBERON_0005243|interventricular septum endocardium
+UBERON_0005268|renal cortex artery
+UBERON_0005269|renal cortex vein
+UBERON_0005272|peritubular capillary
+UBERON_0005316|endocardial endothelium
+UBERON_0005317|pulmonary artery endothelium
+UBERON_0005326|mesonephric glomerulus vasculature
+UBERON_0005336|capillary layer of choroid
+UBERON_0005338|outflow tract aortic component
+UBERON_0005396|carotid artery segment
+UBERON_0005431|anterior spinal artery
+UBERON_0005432|aortic sac
+UBERON_0005435|cisterna chyli
+UBERON_0005436|common hepatic artery
+UBERON_0005438|coronary sinus
+UBERON_0005440|ductus arteriosus
+UBERON_0005458|left umbilical artery
+UBERON_0005459|left umbilical vein
+UBERON_0005460|left vitelline vein
+UBERON_0005464|median sacral artery
+UBERON_0005470|right umbilical artery
+UBERON_0005471|right umbilical vein
+UBERON_0005472|right vitelline vein
+UBERON_0005475|sigmoid sinus
+UBERON_0005481|tentorial sinus
+UBERON_0005485|valve of inferior vena cava
+UBERON_0005486|venous dural sinus
+UBERON_0005487|vitelline vein
+UBERON_0005492|hyaloid vessel
+UBERON_0005599|common dorsal aorta
+UBERON_0005606|hyaloid cavity
+UBERON_0005607|hyaloid vascular plexus
+UBERON_0005608|hyoid artery
+UBERON_0005609|iliac artery
+UBERON_0005610|iliac vein
+UBERON_0005612|intercostal artery
+UBERON_0005613|left dorsal aorta
+UBERON_0005616|mesenteric artery
+UBERON_0005617|mesenteric vein
+UBERON_0005622|right dorsal aorta
+UBERON_0005624|suprarenal artery
+UBERON_0005628|ileal artery
+UBERON_0005629|vascular plexus
+UBERON_0005720|hindbrain venous system
+UBERON_0005734|tunica adventitia of blood vessel
+UBERON_0005740|tunica intima of artery
+UBERON_0005800|section of aorta
+UBERON_0005805|dorsal aorta
+UBERON_0005806|portal system
+UBERON_0005973|blood-inner ear barrier
+UBERON_0006002|vitelline artery
+UBERON_0006011|hyaloid vein
+UBERON_0006137|proper palmar digital artery
+UBERON_0006138|plantar digital artery
+UBERON_0006139|plantar digital vein
+UBERON_0006140|palmar digital vein
+UBERON_0006141|palmar digital artery
+UBERON_0006142|common plantar digital vein
+UBERON_0006143|proper plantar digital vein
+UBERON_0006144|medial plantar digital vein
+UBERON_0006145|dorsal digital artery of pes
+UBERON_0006146|dorsal digital artery of manus
+UBERON_0006163|dorsal digital artery
+UBERON_0006164|forelimb common dorsal digital arteries
+UBERON_0006165|median dorsal digital artery for digit 1
+UBERON_0006166|lateral dorsal digital artery for digit 5
+UBERON_0006167|forelimb proper dorsal digital arteries
+UBERON_0006168|hindlimb common dorsal digital arteries
+UBERON_0006169|hindlimb proper dorsal digital arteries
+UBERON_0006182|mesonephric glomerular mesangium
+UBERON_0006183|mesonephric glomerular capillary
+UBERON_0006197|auricular vein
+UBERON_0006198|dorsal intercostal artery
+UBERON_0006199|posterior auricular vein
+UBERON_0006200|caudal humeral circumflex vein
+UBERON_0006252|intersubcardinal venous anastomosis
+UBERON_0006282|primary head vein
+UBERON_0006296|subcardinal vein
+UBERON_0006300|supracardinal vein
+UBERON_0006305|tunica vasculosa lentis
+UBERON_0006309|venous vitelline plexus
+UBERON_0006310|vitelline venous plexus
+UBERON_0006338|lateral ventricle choroid plexus stroma
+UBERON_0006339|third ventricle choroid plexus stroma
+UBERON_0006340|fourth ventricle choroid plexus stroma
+UBERON_0006341|outer renal medulla peritubular capillary
+UBERON_0006345|stapedial artery
+UBERON_0006347|communicating artery
+UBERON_0006349|epigastric artery
+UBERON_0006351|principal vein of forelimb
+UBERON_0006353|principal vein of hindlimb
+UBERON_0006355|superior vesical vein
+UBERON_0006356|epigastric vein
+UBERON_0006358|vasa hyaloidea propria
+UBERON_0006374|part of afferent arteriole forming the juxtaglomerular complex
+UBERON_0006436|principal artery to forelimb
+UBERON_0006438|principal artery to hindlimb
+UBERON_0006443|prinicipal vein of limb
+UBERON_0006544|kidney vasculature
+UBERON_0006563|tunica media of pulmonary trunk
+UBERON_0006564|superficial palmar arch
+UBERON_0006615|venous sinus
+UBERON_0006632|musculo-phrenic artery
+UBERON_0006634|lingual vein
+UBERON_0006636|lumbar artery
+UBERON_0006637|celiac trunk
+UBERON_0006656|deep dorsal vein of penis
+UBERON_0006662|musculo-phrenic vein
+UBERON_0006663|hemiazygos vein
+UBERON_0006664|greater palatine artery
+UBERON_0006665|accessory hemiazygos vein
+UBERON_0006666|great cerebral vein
+UBERON_0006675|venous valve
+UBERON_0006686|spinal vein
+UBERON_0006687|median sacral vein
+UBERON_0006690|deep dorsal vein of clitoris
+UBERON_0006694|cerebellum vasculature
+UBERON_0006764|anterior communicating artery
+UBERON_0006765|left anterior vena cava
+UBERON_0006766|right anterior vena cava
+UBERON_0006829|remnant of left anterior vena cava
+UBERON_0006841|central vein of liver
+UBERON_0006842|lymphatic capillary
+UBERON_0006851|renal cortex peritubular capillary
+UBERON_0006876|vasculature of organ
+UBERON_0006877|vasculature of liver
+UBERON_0006958|great vein of heart
+UBERON_0006966|coronary capillary
+UBERON_0007142|left internal carotid artery
+UBERON_0007143|right internal carotid artery
+UBERON_0007146|posterior spinal artery
+UBERON_0007149|inferior thyroid artery
+UBERON_0007150|superior thyroid artery
+UBERON_0007152|inferior sagittal sinus
+UBERON_0007153|superior epigastric artery
+UBERON_0007154|inferior epigastric vein
+UBERON_0007155|superior epigastric vein
+UBERON_0007156|inferior thyroid vein
+UBERON_0007157|superior thyroid vein
+UBERON_0007160|inferior petrosal sinus
+UBERON_0007204|brachiocephalic vasculature
+UBERON_0007239|tunica media of artery
+UBERON_0007240|tunica adventitia of artery
+UBERON_0007241|tunica adventitia of vein
+UBERON_0007242|tunica intima of vein
+UBERON_0007243|tunica media of vein
+UBERON_0007299|choroid plexus of tectal ventricle
+UBERON_0007300|pectoral appendage blood vessel
+UBERON_0007301|appendage blood vessel
+UBERON_0007302|pectoral appendage vasculature
+UBERON_0007303|pharyngeal vasculature
+UBERON_0007304|appendage vasculature
+UBERON_0007306|pronephric glomerular capillary
+UBERON_0007312|pudendal artery
+UBERON_0007314|superior external pudendal artery
+UBERON_0007315|internal pudendal artery
+UBERON_0007316|deep external pudendal artery
+UBERON_0007317|superficial external pudendal artery
+UBERON_0007318|saphenous vein
+UBERON_0007319|medial saphenous vein
+UBERON_0007321|lateral saphenous vein
+UBERON_0007352|stria vascularis vasculature
+UBERON_0007384|appendage lymph vessel
+UBERON_0007385|pectoral appendage lymph vessel
+UBERON_0007386|pelvic appendage lymph vessel
+UBERON_0007610|tibial artery
+UBERON_0007622|pecten oculi
+UBERON_0007679|intersomitic vein
+UBERON_0007693|caroticotympanic artery
+UBERON_0007718|principal artery to limb
+UBERON_0007777|umbilical vein endothelium
+UBERON_0007778|umbilical artery endothelium
+UBERON_0007807|connecting stalk vasculature
+UBERON_0008267|left supracardinal vein
+UBERON_0008268|right supracardinal vein
+UBERON_0008311|penile bulb artery
+UBERON_0008320|common penile artery
+UBERON_0008321|deep artery of penis
+UBERON_0008322|deep artery of clitoris
+UBERON_0008323|dorsal artery of clitoris
+UBERON_0008783|dorsal venous arch
+UBERON_0008886|pulmonary vascular system
+UBERON_0008887|rectal venous plexus
+UBERON_0008888|vesical venous plexus
+UBERON_0008889|uterine venous plexus
+UBERON_0008998|vasculature of brain
+UBERON_0009007|superficial inguinal lymph node
+UBERON_0009025|gastroepiploic artery
+UBERON_0009026|iliac circumflex artery
+UBERON_0009027|vesical artery
+UBERON_0009029|pudendal vein
+UBERON_0009030|left pulmonary vein
+UBERON_0009032|right pulmonary vein
+UBERON_0009040|deep circumflex iliac artery
+UBERON_0009041|superficial circumflex iliac artery
+UBERON_0009042|prostatic venous plexus
+UBERON_0009044|pudendal venous plexus
+UBERON_0009046|inferior external pudendal vein
+UBERON_0009047|superior external pudendal vein
+UBERON_0009048|deep external pudendal vein
+UBERON_0009049|superficial external pudendal vein
+UBERON_0009089|inner medulla vasa recta descending limb
+UBERON_0009090|outer medulla vasa recta descending limb
+UBERON_0009091|vasa recta ascending limb
+UBERON_0009092|inner medulla vasa recta ascending limb
+UBERON_0009093|outer medulla vasa recta ascending limb
+UBERON_0009129|right atrium endocardium
+UBERON_0009138|right common cardinal vein
+UBERON_0009139|right posterior cardinal vein
+UBERON_0009140|right subcardinal vein
+UBERON_0009141|craniocervical region vein
+UBERON_0009202|vasa recta descending limb
+UBERON_0009536|vascular element of left lung
+UBERON_0009537|vascular element of right lung
+UBERON_0009548|hepatic sinusoid of left of lobe of liver
+UBERON_0009549|hepatic sinusoid of right of lobe of liver
+UBERON_0009654|alveolar artery
+UBERON_0009655|auricular artery
+UBERON_0009657|artery of lip
+UBERON_0009658|pancreaticoduodenal artery
+UBERON_0009659|spermatic artery
+UBERON_0009687|middle cardiac vein
+UBERON_0009688|posterior inferior cerebellar artery
+UBERON_0009689|anterior inferior cerebellar artery
+UBERON_0009712|endocardium of right ventricle
+UBERON_0009713|endocardium of left ventricle
+UBERON_0009769|left common cardinal vein
+UBERON_0009771|left anterior cardinal vein
+UBERON_0009772|right anterior cardinal vein
+UBERON_0009885|interlobar artery
+UBERON_0009887|interlobar vein
+UBERON_0009967|spleen venous sinus
+UBERON_0009968|primitive superior sagittal sinus
+UBERON_0009976|hypothalamo-hypophyseal system
+UBERON_0010078|optic choroid vascular plexus
+UBERON_0010132|gastroduodenal artery
+UBERON_0010172|bulb of aorta
+UBERON_0010173|sinotubular junction
+UBERON_0010174|Schweigger-Seidel sheath
+UBERON_0010175|nutrient foramen vein
+UBERON_0010176|nutrient foramen artery
+UBERON_0010181|straight venules of kidney
+UBERON_0010189|right atrium venous valve
+UBERON_0010190|pair of dorsal aortae
+UBERON_0010191|aortic system
+UBERON_0010192|genital artery
+UBERON_0010193|renal portal vein
+UBERON_0010194|hepatic portal system
+UBERON_0010195|renal portal system
+UBERON_0010197|trunk of common carotid artery
+UBERON_0010198|carotid duct
+UBERON_0010204|tail vasculature
+UBERON_0010205|mesencephalic vein
+UBERON_0010244|choroid tapetum lucidum
+UBERON_0010246|choroidal guanine tapetum
+UBERON_0010247|choroidal tapetum cellulosum
+UBERON_0010248|choroidal tapetum fibrosum
+UBERON_0010249|posterior meningeal artery
+UBERON_0010250|middle meningeal artery
+UBERON_0010251|anterior meningeal artery
+UBERON_0010260|umbilical blood vessel
+UBERON_0010366|conjunctival vasculature
+UBERON_0010367|conjunctival vein
+UBERON_0010370|tibial vein
+UBERON_0010396|afferent lymphatic vessel
+UBERON_0010397|efferent lymphatic vessel
+UBERON_0010399|spleen trabecular artery
+UBERON_0010400|spleen trabecular vein
+UBERON_0010401|spleen central arteriole
+UBERON_0010408|ocular angle artery
+UBERON_0010523|microcirculatory vessel
+UBERON_0011005|endocardium of auricle
+UBERON_0011006|endocardium of left auricle
+UBERON_0011007|endocardium of right auricle
+UBERON_0011191|ophthalmic vein
+UBERON_0011192|superior ophthalmic vein
+UBERON_0011193|inferior ophthalmic vein
+UBERON_0011362|cranial blood vasculature
+UBERON_0011363|cranial lymph vasculature
+UBERON_0011383|inferior pancreaticoduodenal vein
+UBERON_0011384|superior pancreaticoduodenal vein
+UBERON_0011392|blood vessel internal elastic membrane
+UBERON_0011693|extraembryonic portion of umbilical artery
+UBERON_0011694|embryo portion of umbilical artery
+UBERON_0011696|left extraembryonic umbilical artery
+UBERON_0011697|right extraembryonic umbilical artery
+UBERON_0011737|caudate lobe hepatic sinusoids
+UBERON_0011738|quadrate lobe hepatic sinusoids
+UBERON_0011742|aortic valve leaflet
+UBERON_0011861|aorta collagen fibril
+UBERON_0011944|subintestinal vein
+UBERON_0011955|left hepatic vein
+UBERON_0011956|right hepatic vein
+UBERON_0011957|middle hepatic vein
+UBERON_0012173|middle suprarenal artery
+UBERON_0012187|frontal artery
+UBERON_0012193|phrenic vein
+UBERON_0012194|superior intercostal vein
+UBERON_0012195|left superior intercostal vein
+UBERON_0012196|right superior intercostal vein
+UBERON_0012197|intercostal vein
+UBERON_0012199|posterior intercostal vein
+UBERON_0012200|anterior intercostal vein
+UBERON_0012237|superior phrenic vein
+UBERON_0012239|urinary bladder vasculature
+UBERON_0012254|abdominal aorta artery
+UBERON_0012255|inferior phrenic artery
+UBERON_0012308|superficial lateral cervical lymph node
+UBERON_0012309|superficial anterior cervical lymph node
+UBERON_0012310|deep lateral cervical lymph node
+UBERON_0012311|deep anterior cervical lymph node
+UBERON_0012318|anterior ethmoidal artery
+UBERON_0012319|posterior ethmoidal artery
+UBERON_0012320|cervical artery
+UBERON_0012321|deep cervical artery
+UBERON_0012322|ascending cervical artery
+UBERON_0012324|transverse cervical artery
+UBERON_0012416|respiratory system arterial smooth muscle
+UBERON_0012418|respiratory system venous smooth muscle
+UBERON_0012441|endothelium of peritubular capillary
+UBERON_0013124|left posterior cardinal vein
+UBERON_0013125|left subcardinal vein
+UBERON_0013126|vein of abdomen
+UBERON_0013127|pulmonary venous system
+UBERON_0013132|penicillar arteriole
+UBERON_0013133|superior phrenic artery
+UBERON_0013136|vein of lip
+UBERON_0013137|external pudendal artery
+UBERON_0013140|systemic vein
+UBERON_0013141|capillary bed
+UBERON_0013142|soleal vein
+UBERON_0013143|gastrocnemius vein
+UBERON_0013144|vein of genicular venous plexus
+UBERON_0013145|accessory saphenous vein
+UBERON_0013146|venous system of brain
+UBERON_0013151|choroidal artery
+UBERON_0013218|rete mirabile
+UBERON_0013397|stratum argenteum of choroid
+UBERON_0013398|choroidal gland
+UBERON_0013399|blood vessel layer of choroid
+UBERON_0013479|lung endothelium
+UBERON_0013648|masseteric artery
+UBERON_0013755|arterial blood
+UBERON_0013756|venous blood
+UBERON_0013757|capillary blood
+UBERON_0013768|great vessel of heart
+UBERON_0014400|hepatic sinusoidal space
+UBERON_0014401|renal venous blood vessel
+UBERON_0014685|pterygoid plexus
+UBERON_0014686|angular vein
+UBERON_0014690|left gastric vein
+UBERON_0014691|right gastric vein
+UBERON_0014692|superficial epigastric vein
+UBERON_0014693|inferior alveolar artery
+UBERON_0014694|posterior auricular artery
+UBERON_0014695|deep auricular artery
+UBERON_0014696|anterior choroidal artery
+UBERON_0014697|posterior choroidal artery
+UBERON_0014699|extraembryonic venous system
+UBERON_0014701|extraembryonic vascular system
+UBERON_0014768|superior palpebral vein
+UBERON_0014769|palpebral vein
+UBERON_0014770|palpebral artery
+UBERON_0014772|lateral palpebral artery
+UBERON_0014773|medial palpebral artery
+UBERON_0014786|extraembryonic umbilical vein
+UBERON_0014787|left extraembryonic umbilical vein
+UBERON_0014788|right extraembryonic umbilical vein
+UBERON_0014789|embryo portion of umbilical vein
+UBERON_0014904|intersegmental pulmonary vein
+UBERON_0014907|intersomitic vessel
+UBERON_0015156|terminal branch of ophthalmic artery
+UBERON_0015157|zygomatico-orbital artery
+UBERON_0015158|ophthalmotemporal branch of external ophthalmic artery
+UBERON_0015160|supraorbital artery
+UBERON_0015171|uterine spiral artery
+UBERON_0015172|endometrial blood vessel
+UBERON_0015173|helicine branch of uterine artery
+UBERON_0015174|helicine artery of penis
+UBERON_0015177|helicine artery
+UBERON_0015189|perineural vascular plexus
+UBERON_0015350|saphenous artery
+UBERON_0015433|blood vessel external elastic membrane
+UBERON_0015455|accessory hepatic vein
+UBERON_0015480|proper hepatic artery
+UBERON_0015481|left hepatic artery
+UBERON_0015482|right hepatic artery
+UBERON_0015704|sagittal sinus
+UBERON_0015796|liver blood vessel
+UBERON_0015869|retropharyngeal lymph node
+UBERON_0015917|superficial lymph node
+UBERON_0015918|deep lymph node
+UBERON_0015923|superficial parotid lymph node
+UBERON_0015925|superficial intraparotid lymph node
+UBERON_0016393|deep parotid lymph node
+UBERON_0016394|anterior auricular lymph node
+UBERON_0016395|infra-auricular lymph node
+UBERON_0016396|intraglandular lymph node
+UBERON_0016405|pulmonary capillary
+UBERON_0016559|superficial cerebral vein
+UBERON_0016564|deep cerebral vein
+UBERON_0016565|cerebral blood vessel
+UBERON_0016890|intrahepatic branch of portal vein
+UBERON_0016920|descending trunk of arch of aorta
+UBERON_0016923|preductal region of aortic arch
+UBERON_0016924|postductal region of aortic arch
+UBERON_0016925|juxtaductal region of aortic arch
+UBERON_0017616|afferent spiracular artery
+UBERON_0017617|efferent spiracular artery
+UBERON_0017633|choroid plexus corpora arenacea
+UBERON_0017635|paired venous dural sinus
+UBERON_0017637|marginal venous sinus
+UBERON_0017638|primitive marginal sinus
+UBERON_0017640|unpaired venous dural sinus
+UBERON_0017643|external thoracic vein
+UBERON_0017646|internal mammary vein
+UBERON_0018227|pulmonary lymphatic vessel
+UBERON_0018228|extrahepatic branch of portal vein
+UBERON_0018231|labyrinthine artery
+UBERON_0018243|thymic artery
+UBERON_0018246|thyroid vein
+UBERON_0018247|cervical thymic artery
+UBERON_0018248|inferior superficial cervical thymic artery
+UBERON_0018249|superior superficial cervical thymic artery
+UBERON_0018250|middle thyroid artery
+UBERON_0018251|meningeal vein
+UBERON_0018252|internal pudendal vein
+UBERON_0018253|external pudendal vein
+UBERON_0018255|jejunal artery
+UBERON_0018256|lacrimal vein
+UBERON_0018335|lateral dorsal aorta canal
+UBERON_0018392|arterial baroreceptor
+UBERON_0018393|low-pressure baroreceptor
+UBERON_0018394|vein baroreceptor
+UBERON_0018395|cardiac baroreceptor
+UBERON_0018396|pulmonary baroreceptor
+UBERON_0018397|posterior superior alveolar artery
+UBERON_0018410|lacteal
+UBERON_0018549|ventral wall of dorsal aorta
+UBERON_0018674|heart vasculature
+UBERON_0019189|carotid artery endothelium
+UBERON_0019196|iliac artery endothelium
+UBERON_0020550|auricular blood vessel
+UBERON_0022292|splenic arteriole
+UBERON_0022358|placenta blood vessel
+UBERON_0034693|cremasteric artery
+UBERON_0034727|vestibular bulb artery
+UBERON_0034884|juxtaglomerular arteriole
+UBERON_0034903|left atrium endocardium
+UBERON_0034927|arcuate artery of foot
+UBERON_0034949|lymphatic valve
+UBERON_0034950|lymph sac
+UBERON_0034951|subcutaneous lymph sac
+UBERON_0034952|intrapleuroperitoneal lymph sac
+UBERON_0034964|superficial epigastric artery
+UBERON_0034965|middle thyroid vein
+UBERON_0034971|aortic body
+UBERON_0034972|jugular body
+UBERON_0034980|jugular bulb
+UBERON_0034981|superior bulb of internal jugular vein
+UBERON_0034982|inferior bulb of internal jugular vein
+UBERON_0035039|rectal artery
+UBERON_0035040|superior rectal artery
+UBERON_0035041|deep temporal artery
+UBERON_0035042|middle temporal artery
+UBERON_0035043|temporal branch of lateral pretrosal artery
+UBERON_0035150|superior cerebral vein
+UBERON_0035151|dorsal cerebral vein
+UBERON_0035152|internal cerebral vein
+UBERON_0035162|infraclavicular lymph node
+UBERON_0035180|sigmoid artery
+UBERON_0035183|calcarine artery
+UBERON_0035195|plantar metatarsal artery
+UBERON_0035198|superficial lymphatic vessel
+UBERON_0035204|occipital lymph node
+UBERON_0035222|posterior parietal artery
+UBERON_0035225|anterior temporal artery
+UBERON_0035231|superficial middle cerebral vein
+UBERON_0035234|medial circumflex femoral vein
+UBERON_0035237|branch of internal carotid artery
+UBERON_0035249|posterior external jugular vein
+UBERON_0035252|left subcostal vein
+UBERON_0035261|posterior temporal artery
+UBERON_0035273|superior thoracic artery
+UBERON_0035292|branch of posterior tibial artery
+UBERON_0035304|branch of ulnar artery
+UBERON_0035307|branch of vertebral artery
+UBERON_0035322|right common iliac artery
+UBERON_0035338|sphenoparietal sinus
+UBERON_0035350|branch of middle cerebral artery
+UBERON_0035359|branch of brachial artery
+UBERON_0035374|small cardiac vein
+UBERON_0035380|branch of anterior cerebral artery
+UBERON_0035392|cystic vein
+UBERON_0035395|branch of left coronary artery
+UBERON_0035398|branch of external carotid artery
+UBERON_0035403|hypophysial artery
+UBERON_0035404|superior hypophysial artery
+UBERON_0035422|circumflex branch of left coronary artery
+UBERON_0035428|postcapillary venule
+UBERON_0035435|right suprarenal vein
+UBERON_0035462|anterior parietal artery
+UBERON_0035474|right subcostal vein
+UBERON_0035483|left suprarenal vein
+UBERON_0035489|branch of basilar artery
+UBERON_0035492|inferior hypophysial artery
+UBERON_0035508|branch of posterior cerebral artery
+UBERON_0035529|left common iliac artery
+UBERON_0035530|basal vein
+UBERON_0035532|deep middle cerebral vein
+UBERON_0035539|esophageal artery
+UBERON_0035545|deep lymphatic vessel
+UBERON_0035546|uveal vein
+UBERON_0035547|posterior ciliary vein
+UBERON_0035548|colic artery
+UBERON_0035549|superficial vasculature
+UBERON_0035550|superficial vein
+UBERON_0035551|deep vasculature
+UBERON_0035552|deep vein
+UBERON_0035608|dura mater lymph vessel
+UBERON_0035640|middle vesical artery
+UBERON_0035655|paraumbilical vein
+UBERON_0035659|deep facial vein
+UBERON_0035662|parotid vein
+UBERON_0035675|anterior facial vein
+UBERON_0035753|capillary plexus
+UBERON_0035754|pulmonary capillary plexus
+UBERON_0035755|systemic capillary plexus
+UBERON_0035756|capillary network of liver
+UBERON_0035757|embryonic capillary plexus
+UBERON_0035758|peritubular capillary plexus of kidney
+UBERON_0035762|capillary network of kidney
+UBERON_0035764|pulmonary lymph node
+UBERON_0035765|subsegmental lymph node
+UBERON_0035829|right gastroepiploic artery
+UBERON_0035830|left gastroepiploic artery
+UBERON_0035965|wall of blood vessel
+UBERON_0036066|inferior endocardial cushion
+UBERON_0036067|superior endocardial cushion
+UBERON_0036074|vein of vestibular aqueduct
+UBERON_2000039|median axial vein
+UBERON_2000096|cardinal system
+UBERON_2000202|efferent portion of pharyngeal arch artery
+UBERON_2000214|hypobranchial vessel
+UBERON_2000484|celiacomesenteric artery
+UBERON_2000666|filamental artery
+UBERON_2000673|hypobranchial artery
+UBERON_2000677|segmental intercostal artery
+UBERON_2000716|afferent portion of pharyngeal arch artery
+UBERON_2001051|caudal division of the internal carotid artery
+UBERON_2001052|primordial hindbrain channel
+UBERON_2001053|future internal carotid artery
+UBERON_2001054|lateral dorsal aorta
+UBERON_2001059|cranial division of the internal carotid artery
+UBERON_2001062|presumptive mesencephalic artery
+UBERON_2001063|posterior caudal vein
+UBERON_2001073|axial vasculature
+UBERON_2001286|caudal vein plexus
+UBERON_2001857|hyoidean artery
+UBERON_2001975|suprabranchial artery
+UBERON_2005000|basal communicating artery
+UBERON_2005010|mid cerebral vein
+UBERON_2005011|pseudobranchial artery
+UBERON_2005012|afferent filamental artery
+UBERON_2005013|concurrent branch afferent branchial artery
+UBERON_2005014|recurrent branch afferent branchial artery
+UBERON_2005015|afferent lamellar arteriole
+UBERON_2005017|primordial midbrain channel
+UBERON_2005018|efferent filamental artery
+UBERON_2005019|efferent lamellar arteriole
+UBERON_2005020|central artery
+UBERON_2005021|cerebellar central artery
+UBERON_2005022|opercular artery
+UBERON_2005025|dorsal longitudinal anastomotic vessel
+UBERON_2005026|primary head sinus
+UBERON_2005027|posterior cerebral vein
+UBERON_2005030|dorsal ciliary vein
+UBERON_2005031|dorsal longitudinal vein
+UBERON_2005032|optic vein
+UBERON_2005034|parachordal vessel
+UBERON_2005036|supraintestinal artery
+UBERON_2005038|supraintestinal vein
+UBERON_2005044|optic artery
+UBERON_2005048|primitive prosencephalic artery
+UBERON_2005049|prosencephalic artery
+UBERON_2005050|palatocerebral artery
+UBERON_2005051|communicating vessel palatocerebral artery
+UBERON_2005052|anterior mesencephalic central artery
+UBERON_2005053|nasal ciliary artery
+UBERON_2005054|inner optic circle
+UBERON_2005055|median palatocerebral vein
+UBERON_2005056|palatocerebral vein
+UBERON_2005072|endocardial ring
+UBERON_2005073|atrioventricular ring
+UBERON_2005078|middle mesencephalic central artery
+UBERON_2005079|posterior mesencephalic central artery
+UBERON_2005080|anterior mesenteric artery
+UBERON_2005082|dorsal branch nasal ciliary artery
+UBERON_2005083|ventral branch nasal ciliary artery
+UBERON_2005084|metencephalic artery
+UBERON_2005085|nasal artery
+UBERON_2005087|pectoral vein
+UBERON_2005088|posterior mesenteric artery
+UBERON_2005089|swim bladder artery
+UBERON_2005093|nasal vein
+UBERON_2005097|caudal fin vasculature
+UBERON_2005098|central ray artery
+UBERON_2005099|ray vein
+UBERON_2005100|intervessel commissure
+UBERON_2005101|interray vessel
+UBERON_2005106|longitudinal lateral lymphatic vessel
+UBERON_2005219|choroid plexus vascular circuit
+UBERON_2005248|trans-choroid plexus branch
+UBERON_2005259|continuous capillary
+UBERON_2005260|fenestrated capillary
+UBERON_2005295|axial blood vessel
+UBERON_2005303|caudal fin lymph vessel
+UBERON_2005304|caudal fin blood vessel
+UBERON_2005319|intersegmental lymph vessel
+UBERON_2005320|dorsal longitudinal lymphatic vessel
+UBERON_3010200|vasculature of respiratory integument
+UBERON_3010224|vertebral
+UBERON_3010404|capillary system of liver
+UBERON_3010413|left channel of ventral aorta
+UBERON_3010417|posterior palatine artery
+UBERON_3010423|larval aorta
+UBERON_3010424|right channel of ventral aorta
+UBERON_3010489|muscular artery
+UBERON_3010494|lateral pretrosal artery
+UBERON_3010496|mandibular artery
+UBERON_3010498|cutaneus artery
+UBERON_3010499|coeliaco-mesenteric artery
+UBERON_3010500|gastrico-linealis
+UBERON_3010501|duodeno-pancreatic artery
+UBERON_3010502|duodeno-hepatic artery
+UBERON_3010503|oviduct artery
+UBERON_3010506|postcaval vein
+UBERON_3010507|precaval vein
+UBERON_3010515|lateral vein
+UBERON_3010516|cutaneus magnus
+UBERON_3010517|ventral abdominal vein
+UBERON_3010519|Jacobson's vein
+UBERON_3010520|oviducal vein

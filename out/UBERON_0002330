@@ -1,0 +1,253 @@
+UBERON_0000017|exocrine pancreas
+UBERON_0000325|gastric gland
+UBERON_0000359|preputial gland
+UBERON_0000382|apocrine sweat gland
+UBERON_0000409|serous gland
+UBERON_0000414|mucous gland
+UBERON_0000423|eccrine sweat gland
+UBERON_0000460|major vestibular gland
+UBERON_0000461|minor vestibular gland
+UBERON_0001044|saliva-secreting gland
+UBERON_0001064|ventral pancreatic duct
+UBERON_0001065|parotid main excretory duct
+UBERON_0001113|lobe of liver
+UBERON_0001114|right lobe of liver
+UBERON_0001115|left lobe of liver
+UBERON_0001116|quadrate lobe of liver
+UBERON_0001117|caudate lobe of liver
+UBERON_0001143|hepatic vein
+UBERON_0001149|bare area of liver
+UBERON_0001171|portal lobule
+UBERON_0001172|hepatic acinus
+UBERON_0001212|duodenal gland
+UBERON_0001246|interlobular bile duct
+UBERON_0001247|falciform ligament
+UBERON_0001263|pancreatic acinus
+UBERON_0001279|portal triad
+UBERON_0001280|liver parenchyma
+UBERON_0001281|hepatic sinusoid
+UBERON_0001282|intralobular bile duct
+UBERON_0001283|bile canaliculus
+UBERON_0001338|urethral gland
+UBERON_0001736|submandibular gland
+UBERON_0001765|mammary duct
+UBERON_0001817|lacrimal gland
+UBERON_0001818|tarsal gland
+UBERON_0001820|sweat gland
+UBERON_0001821|sebaceous gland
+UBERON_0001829|major salivary gland
+UBERON_0001830|minor salivary gland
+UBERON_0001831|parotid gland
+UBERON_0001832|sublingual gland
+UBERON_0001837|duct of salivary gland
+UBERON_0001838|sublingual duct
+UBERON_0001911|mammary gland
+UBERON_0001912|lobule of mammary gland
+UBERON_0002032|areola
+UBERON_0002107|liver
+UBERON_0002232|olfactory gland
+UBERON_0002334|submandibular duct
+UBERON_0002365|exocrine gland
+UBERON_0002366|bulbo-urethral gland
+UBERON_0002447|palatine gland
+UBERON_0002451|endometrial gland
+UBERON_0003214|mammary gland alveolus
+UBERON_0003244|epithelium of mammary gland
+UBERON_0003326|mesenchyme of mammary gland
+UBERON_0003359|epithelium of submandibular gland
+UBERON_0003360|epithelium of parotid gland
+UBERON_0003361|epithelium of sublingual gland
+UBERON_0003409|gland of tongue
+UBERON_0003418|mesenchyme of submandibular gland
+UBERON_0003419|mesenchyme of parotid
+UBERON_0003420|mesenchyme of sublingual gland
+UBERON_0003484|eye sebaceous gland
+UBERON_0003485|vagina sebaceous gland
+UBERON_0003487|skin sebaceous gland
+UBERON_0003488|abdominal mammary gland
+UBERON_0003584|mammary gland connective tissue
+UBERON_0003704|intrahepatic bile duct
+UBERON_0003985|major sublingual duct
+UBERON_0003986|minor sublingual duct
+UBERON_0004000|tarsal gland acinus
+UBERON_0004058|biliary ductule
+UBERON_0004180|mammary gland fat
+UBERON_0004182|mammary gland cord
+UBERON_0004187|Harderian gland
+UBERON_0004235|mammary gland smooth muscle
+UBERON_0004647|liver lobule
+UBERON_0004694|Harderian gland epithelium
+UBERON_0004789|larynx mucous gland
+UBERON_0004790|skin mucous gland
+UBERON_0004793|secretion of exocrine pancreas
+UBERON_0004809|salivary gland epithelium
+UBERON_0004817|lacrimal gland epithelium
+UBERON_0004823|intrahepatic bile duct epithelium
+UBERON_0005050|liver papillary process
+UBERON_0005199|cervical mammary gland
+UBERON_0005200|thoracic mammary gland
+UBERON_0005203|trachea gland
+UBERON_0005221|liver right lobe parenchyma
+UBERON_0005222|liver left lobe parenchyma
+UBERON_0005301|male preputial gland
+UBERON_0005302|female preputial gland
+UBERON_0005313|mammary duct terminal end bud
+UBERON_0005429|dorsal pancreatic duct
+UBERON_0005452|hepatic cord
+UBERON_0005605|intrahepatic part of hepatic duct
+UBERON_0006330|anterior lingual gland
+UBERON_0006588|round ligament of liver
+UBERON_0006727|liver left lateral lobe
+UBERON_0006728|liver left medial lobe
+UBERON_0006729|liver perisinusoidal space
+UBERON_0006841|central vein of liver
+UBERON_0006877|vasculature of liver
+UBERON_0006954|mammary gland myoepithelium
+UBERON_0007324|pancreatic lobule
+UBERON_0007329|pancreatic duct
+UBERON_0007773|scrotal sweat gland
+UBERON_0007802|uropygial gland
+UBERON_0008424|inguinal mammary gland
+UBERON_0008859|cardiac gastric gland
+UBERON_0008860|intermediate gastric gland
+UBERON_0008861|pyloric gastric gland
+UBERON_0008974|apocrine gland
+UBERON_0008976|snake venom gland
+UBERON_0008989|submocosal esophageal gland
+UBERON_0009548|hepatic sinusoid of left of lobe of liver
+UBERON_0009549|hepatic sinusoid of right of lobe of liver
+UBERON_0009708|dorsal pancreas
+UBERON_0009709|ventral pancreas
+UBERON_0009970|epithelium of pancreatic duct
+UBERON_0009971|principal gastric gland
+UBERON_0010038|fundic gastric gland
+UBERON_0010047|oral gland
+UBERON_0010048|Duvernoy's gland
+UBERON_0010049|supralabial gland
+UBERON_0010050|infralabial gland
+UBERON_0010150|duct of major vestibular gland
+UBERON_0010151|duct of bulbourethral gland
+UBERON_0010183|liver trabecula
+UBERON_0010186|male urethral gland
+UBERON_0010187|female urethral gland
+UBERON_0010240|zygomatic gland
+UBERON_0010241|molar gland
+UBERON_0010242|anterior buccal gland
+UBERON_0010243|merocrine gland
+UBERON_0010704|parenchyma of quadrate lobe of liver
+UBERON_0010706|parenchyma of caudate lobe of liver
+UBERON_0011146|silk gland
+UBERON_0011147|Verson's gland
+UBERON_0011148|submucosal gland
+UBERON_0011149|Marshall's gland
+UBERON_0011186|Krause's gland
+UBERON_0011252|scent gland
+UBERON_0011253|gland of anal sac
+UBERON_0011263|femoral gland
+UBERON_0011264|femoral pore
+UBERON_0011579|venom gland
+UBERON_0011580|platypus crural gland
+UBERON_0011737|caudate lobe hepatic sinusoids
+UBERON_0011738|quadrate lobe hepatic sinusoids
+UBERON_0011827|areolar gland
+UBERON_0011830|duct of lesser vestibular gland
+UBERON_0011844|duct of areolar gland
+UBERON_0011845|duct of sebaceous gland
+UBERON_0011846|acinus of sebaceous gland
+UBERON_0011847|acinus of parotid gland
+UBERON_0011850|acinus of salivary gland
+UBERON_0011854|acinus of areolar gland
+UBERON_0011856|acinus of lactiferous gland
+UBERON_0011857|acinus of lacrimal gland
+UBERON_0011858|acinus of exocrine gland
+UBERON_0011950|mammary gland luminal epithelium
+UBERON_0011955|left hepatic vein
+UBERON_0011956|right hepatic vein
+UBERON_0011957|middle hepatic vein
+UBERON_0012102|buccal salivary gland
+UBERON_0012103|suspensory ligament of breast
+UBERON_0012177|skin apocrine gland
+UBERON_0012247|cervical gland
+UBERON_0012278|gland of nasal mucosa
+UBERON_0012281|perianal sebaceous gland
+UBERON_0012282|mammary fat pad
+UBERON_0012344|holocrine gland
+UBERON_0013075|venom gland duct
+UBERON_0013138|coronary ligament of liver
+UBERON_0013139|ligament of liver
+UBERON_0013211|cerumen gland
+UBERON_0013224|Ciaccio's gland
+UBERON_0013226|accessory lacrimal gland
+UBERON_0013227|crypt of Henle
+UBERON_0013228|sweat gland of eyelid
+UBERON_0013231|sebaceous gland of eyelid
+UBERON_0013232|serous acinus
+UBERON_0013233|supraorbital gland
+UBERON_0013234|violet gland
+UBERON_0013475|gustatory gland
+UBERON_0013697|exocrine pancreas epithelium
+UBERON_0014391|palmar/plantar sweat gland
+UBERON_0014400|hepatic sinusoidal space
+UBERON_0014717|mucous acinus
+UBERON_0014727|intercalated duct of salivary gland
+UBERON_0014729|striated duct of salivary gland
+UBERON_0014779|liver reticuloendothelial system
+UBERON_0015132|extralobar lactiferous duct
+UBERON_0015133|terminal lactiferous duct
+UBERON_0015134|main lactiferous duct
+UBERON_0015135|primary lactiferous duct
+UBERON_0015136|secondary lactiferous duct
+UBERON_0015137|tertiary lactiferous duct
+UBERON_0015138|quarternary lactiferous duct
+UBERON_0015142|falciform fat
+UBERON_0015151|Harderian gland duct
+UBERON_0015213|barnacle cement gland
+UBERON_0015251|modified sebaceous gland
+UBERON_0015280|pancreas left lobe
+UBERON_0015281|pancreas right lobe
+UBERON_0015445|anterior lingual gland duct
+UBERON_0015455|accessory hepatic vein
+UBERON_0015481|left hepatic artery
+UBERON_0015482|right hepatic artery
+UBERON_0015766|epithelium of duct of salivary gland
+UBERON_0015784|duct of olfactory gland
+UBERON_0015785|acinus of olfactory gland
+UBERON_0015796|liver blood vessel
+UBERON_0016478|liver stroma
+UBERON_0016480|interlobular stroma of liver
+UBERON_0016852|skin scent gland
+UBERON_0016853|interdigital gland
+UBERON_0016890|intrahepatic branch of portal vein
+UBERON_0017161|hemipenial mucuous gland
+UBERON_0017162|hemipenial holocrine gland
+UBERON_0017653|intermaxillary salivary gland
+UBERON_0017654|buccal gland
+UBERON_0018140|mammary lobe
+UBERON_0018232|axillary sweat gland
+UBERON_0018233|gland of Zeis
+UBERON_0019190|mucous gland of lung
+UBERON_0019319|exocrine gland of integumental system
+UBERON_0019324|intraorbital lacrimal gland
+UBERON_0019325|exorbital lacrimal gland
+UBERON_0022360|male mammary gland duct
+UBERON_0034762|areolar sweat gland
+UBERON_0034770|bulbourethral gland epithelium
+UBERON_0034934|Weber's gland
+UBERON_0035045|parotid gland intralobular duct
+UBERON_0035046|parotid gland intercalated duct
+UBERON_0035047|parotid gland striated duct
+UBERON_0035048|parotid gland excretory duct
+UBERON_0035049|excretory duct of salivary gland
+UBERON_0035053|interlobular duct of salivary gland
+UBERON_0035073|duct of eccrine sweat gland
+UBERON_0035074|duct of apocrine sweat gland
+UBERON_0035076|parotid gland myoepithelium
+UBERON_0035077|lateral nasal gland
+UBERON_0035078|parotid gland interlobular duct
+UBERON_0035444|triangular ligament of liver
+UBERON_0035756|capillary network of liver
+UBERON_1000022|Zymbal's gland
+UBERON_2005174|ventral liver lobe
+UBERON_2005346|extrapancreatic duct
+UBERON_3010404|capillary system of liver
+UBERON_3010752|lobe

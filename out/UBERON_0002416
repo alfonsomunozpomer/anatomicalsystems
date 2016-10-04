@@ -1,0 +1,743 @@
+UBERON_0000014|zone of skin
+UBERON_0000021|cutaneous appendage
+UBERON_0000022|feather
+UBERON_0000041|odontode scale
+UBERON_0000212|toilet claw
+UBERON_0000329|hair root
+UBERON_0000359|preputial gland
+UBERON_0000382|apocrine sweat gland
+UBERON_0000412|dermal papilla
+UBERON_0000423|eccrine sweat gland
+UBERON_0000460|major vestibular gland
+UBERON_0000964|cornea
+UBERON_0001001|chitin-based cuticle
+UBERON_0001003|skin epidermis
+UBERON_0001037|strand of hair
+UBERON_0001068|skin of back
+UBERON_0001084|skin of head
+UBERON_0001085|skin of trunk
+UBERON_0001331|skin of penis
+UBERON_0001415|skin of pelvis
+UBERON_0001416|skin of abdomen
+UBERON_0001417|skin of neck
+UBERON_0001418|skin of thorax
+UBERON_0001419|skin of limb
+UBERON_0001457|skin of eyelid
+UBERON_0001458|skin of lip
+UBERON_0001459|skin of external ear
+UBERON_0001471|skin of prepuce of penis
+UBERON_0001483|skin of shoulder
+UBERON_0001510|skin of knee
+UBERON_0001511|skin of leg
+UBERON_0001512|skin of ankle
+UBERON_0001513|skin of pes
+UBERON_0001517|skin of elbow
+UBERON_0001518|skin of wrist
+UBERON_0001519|skin of manus
+UBERON_0001554|skin of hip
+UBERON_0001702|eyelash
+UBERON_0001705|nail
+UBERON_0001765|mammary duct
+UBERON_0001777|substantia propria of cornea
+UBERON_0001818|tarsal gland
+UBERON_0001820|sweat gland
+UBERON_0001821|sebaceous gland
+UBERON_0001833|lip
+UBERON_0001834|upper lip
+UBERON_0001835|lower lip
+UBERON_0001868|skin of chest
+UBERON_0001911|mammary gland
+UBERON_0001912|lobule of mammary gland
+UBERON_0001985|corneal endothelium
+UBERON_0001992|papillary layer of dermis
+UBERON_0001993|reticular layer of dermis
+UBERON_0002025|stratum basale of epidermis
+UBERON_0002026|stratum spinosum of epidermis
+UBERON_0002027|stratum corneum of epidermis
+UBERON_0002032|areola
+UBERON_0002033|arrector muscle of hair
+UBERON_0002067|dermis
+UBERON_0002069|stratum granulosum of epidermis
+UBERON_0002071|stratum lucidum of epidermis
+UBERON_0002072|hypodermis
+UBERON_0002073|hair follicle
+UBERON_0002074|hair shaft
+UBERON_0002077|cortex of hair
+UBERON_0002097|skin of body
+UBERON_0002190|subcutaneous adipose tissue
+UBERON_0002199|integument
+UBERON_0002243|cutaneous vein
+UBERON_0002283|nail matrix
+UBERON_0002284|hyponychium
+UBERON_0002419|skin gland
+UBERON_0002427|arm skin
+UBERON_0002531|paired fin bud
+UBERON_0002539|pharyngeal arch
+UBERON_0002542|scale
+UBERON_0003055|periderm
+UBERON_0003062|primitive knot
+UBERON_0003066|pharyngeal arch 2
+UBERON_0003102|surface structure
+UBERON_0003114|pharyngeal arch 3
+UBERON_0003115|pharyngeal arch 4
+UBERON_0003116|pharyngeal arch 5
+UBERON_0003117|pharyngeal arch 6
+UBERON_0003118|pharyngeal arch artery 1
+UBERON_0003119|pharyngeal arch artery 2
+UBERON_0003120|pharyngeal arch artery 3
+UBERON_0003121|pharyngeal arch artery 4
+UBERON_0003122|pharyngeal arch artery 5
+UBERON_0003123|pharyngeal arch artery 6
+UBERON_0003214|mammary gland alveolus
+UBERON_0003219|shell septum
+UBERON_0003244|epithelium of mammary gland
+UBERON_0003297|gland of integumental system
+UBERON_0003326|mesenchyme of mammary gland
+UBERON_0003403|skin of forearm
+UBERON_0003412|pelvic appendage bud mesenchyme
+UBERON_0003413|pectoral appendage bud mesenchyme
+UBERON_0003426|dermis adipose tissue
+UBERON_0003484|eye sebaceous gland
+UBERON_0003485|vagina sebaceous gland
+UBERON_0003487|skin sebaceous gland
+UBERON_0003488|abdominal mammary gland
+UBERON_0003500|corneal blood vessel
+UBERON_0003530|pedal digit skin
+UBERON_0003531|forelimb skin
+UBERON_0003532|hindlimb skin
+UBERON_0003533|manual digit skin
+UBERON_0003534|tail skin
+UBERON_0003584|mammary gland connective tissue
+UBERON_0003585|dermis connective tissue
+UBERON_0003605|eye skin gland
+UBERON_0003719|Pacinian corpuscle
+UBERON_0003836|abdominal segment skin
+UBERON_0003967|cutaneous elastic tissue
+UBERON_0004000|tarsal gland acinus
+UBERON_0004014|labium minora
+UBERON_0004034|cutaneous microfibril
+UBERON_0004084|genital labium
+UBERON_0004085|labium majora
+UBERON_0004105|subungual region
+UBERON_0004180|mammary gland fat
+UBERON_0004182|mammary gland cord
+UBERON_0004235|mammary gland smooth muscle
+UBERON_0004253|skin muscle
+UBERON_0004262|upper leg skin
+UBERON_0004263|upper arm skin
+UBERON_0004264|lower leg skin
+UBERON_0004347|limb bud
+UBERON_0004356|apical ectodermal ridge
+UBERON_0004357|paired limb/fin bud
+UBERON_0004362|pharyngeal arch 1
+UBERON_0004363|pharyngeal arch artery
+UBERON_0004367|Descemet's membrane
+UBERON_0004368|Reichert's cartilage
+UBERON_0004370|anterior limiting lamina of cornea
+UBERON_0004692|external naris epithelium
+UBERON_0004790|skin mucous gland
+UBERON_0004833|lip skeletal muscle
+UBERON_0004882|eponychium
+UBERON_0005031|mucosa of upper lip
+UBERON_0005032|mucosa of lower lip
+UBERON_0005083|nipple sheath
+UBERON_0005094|beak
+UBERON_0005184|hair medulla
+UBERON_0005199|cervical mammary gland
+UBERON_0005200|thoracic mammary gland
+UBERON_0005273|nail bed
+UBERON_0005274|proximal nail bed
+UBERON_0005275|dorsal skin of digit
+UBERON_0005276|dorsal skin of finger
+UBERON_0005277|dorsal skin of toe
+UBERON_0005278|nail bed of finger
+UBERON_0005279|nail bed of toe
+UBERON_0005298|skin of clitoris
+UBERON_0005301|male preputial gland
+UBERON_0005302|female preputial gland
+UBERON_0005313|mammary duct terminal end bud
+UBERON_0005402|philtrum
+UBERON_0005412|optic fissure
+UBERON_0005414|zone of polarizing activity
+UBERON_0005415|zone of polarizing activity of pectoral appendage
+UBERON_0005416|zone of polarizing activity of pelvic appendage
+UBERON_0005417|forelimb bud
+UBERON_0005418|hindlimb bud
+UBERON_0005419|pectoral appendage bud
+UBERON_0005420|pelvic appendage bud
+UBERON_0005421|pectoral appendage apical ectodermal ridge
+UBERON_0005422|pelvic appendage apical ectodermal ridge
+UBERON_0005455|interventricular groove
+UBERON_0005467|platysma
+UBERON_0005478|sulcus limitans of neural tube
+UBERON_0005489|anterior interventricular sulcus
+UBERON_0005490|posterior interventricular sulcus
+UBERON_0005660|2nd arch ectoderm
+UBERON_0005661|3rd arch ectoderm
+UBERON_0005662|4th arch ectoderm
+UBERON_0005664|2nd arch endoderm
+UBERON_0005665|3rd arch endoderm
+UBERON_0005666|4th arch endoderm
+UBERON_0005689|2nd arch mesenchyme
+UBERON_0005690|3rd arch mesenchyme
+UBERON_0005691|4th arch mesenchyme
+UBERON_0005719|footplate apical ectodermal ridge
+UBERON_0005872|1st arch pharyngeal cleft
+UBERON_0005873|2nd arch pharyngeal cleft
+UBERON_0005874|3rd arch pharyngeal cleft
+UBERON_0005875|4th arch pharyngeal cleft
+UBERON_0005879|pharyngeal cleft
+UBERON_0005928|external naris
+UBERON_0005931|primary choana
+UBERON_0005932|bulb of hair follicle
+UBERON_0005933|hair root sheath
+UBERON_0005941|hair inner root sheath
+UBERON_0005942|hair outer root sheath
+UBERON_0005943|hair root sheath matrix
+UBERON_0005968|infundibulum of hair follicle
+UBERON_0005975|hair follicle bulge
+UBERON_0006003|integumentary adnexa
+UBERON_0006004|hair follicle matrix region
+UBERON_0006005|hair follicle isthmus
+UBERON_0006257|laryngotracheal groove
+UBERON_0006260|lingual swellings
+UBERON_0006270|optic pit
+UBERON_0006378|strand of vibrissa hair
+UBERON_0006611|exoskeleton
+UBERON_0006612|shell
+UBERON_0006756|median lingual swelling
+UBERON_0006757|lateral lingual swelling
+UBERON_0006846|surface groove
+UBERON_0006870|endostyle
+UBERON_0006872|handplate apical ectodermal ridge
+UBERON_0006906|ala of nose
+UBERON_0006913|lip epithelium
+UBERON_0006954|mammary gland myoepithelium
+UBERON_0007121|skin nerve field
+UBERON_0007237|1st arch mandibular component
+UBERON_0007238|1st arch maxillary component
+UBERON_0007330|rhamphotheca
+UBERON_0007331|maxillary rhamphotheca
+UBERON_0007332|mandibular rhamphotheca
+UBERON_0007376|outer epithelium
+UBERON_0007377|stratum compactum
+UBERON_0007380|dermal scale
+UBERON_0007381|epidermal scale
+UBERON_0007623|comb and wattle
+UBERON_0007771|epidermis gland
+UBERON_0007773|scrotal sweat gland
+UBERON_0007809|fascia of Camper
+UBERON_0008198|nail plate
+UBERON_0008201|scute
+UBERON_0008270|mollusc shell
+UBERON_0008271|turtle shell
+UBERON_0008275|carapace
+UBERON_0008276|plastron
+UBERON_0008283|columnella
+UBERON_0008286|feather calamus
+UBERON_0008287|feather vane
+UBERON_0008288|feather rachis
+UBERON_0008290|afterfeather
+UBERON_0008291|down feather
+UBERON_0008292|vaned feather
+UBERON_0008293|filoplume feather
+UBERON_0008294|feather barb
+UBERON_0008295|feather barbule
+UBERON_0008297|pennaceous feather
+UBERON_0008341|columella nasi
+UBERON_0008424|inguinal mammary gland
+UBERON_0008802|cheek pouch
+UBERON_0008803|skin of cheek
+UBERON_0008838|metapodial pad
+UBERON_0008839|palmar pad
+UBERON_0008840|plantar pad
+UBERON_0008876|hypodermis skeletal muscle layer
+UBERON_0008877|epidermal-dermal junction
+UBERON_0008891|external gill
+UBERON_0008896|post-hyoid pharyngeal arch
+UBERON_0008963|hoof
+UBERON_0008999|hoof lamina
+UBERON_0009014|lower back skin
+UBERON_0009015|upper back skin
+UBERON_0009200|limb epidermis
+UBERON_0009210|pharyngeal membrane
+UBERON_0009213|pharyngeal membrane of 1st arch
+UBERON_0009215|pharyngeal membrane of 2nd arch
+UBERON_0009216|pharyngeal membrane of 3rd arch
+UBERON_0009217|pharyngeal membrane of 4th arch
+UBERON_0009494|pharyngeal arch mesenchymal region
+UBERON_0009522|lateral lingual swelling epithelium
+UBERON_0009564|distal limb integumentary appendage
+UBERON_0009565|nail of manual digit
+UBERON_0009567|nail of pedal digit
+UBERON_0009570|spinal cord sulcus limitans
+UBERON_0009576|medulla oblongata sulcus limitans
+UBERON_0009577|metencephalon sulcus limitans
+UBERON_0009578|myelencephalon sulcus limitans
+UBERON_0009584|1st arch mandibular mesenchyme
+UBERON_0009648|eyelid subcutaneous connective tissue
+UBERON_0009754|blubber
+UBERON_0009865|Hatschek's pit
+UBERON_0009957|ciliated pit
+UBERON_0010012|upper beak
+UBERON_0010013|lower beak
+UBERON_0010019|spiracle (sensu Vertebrata)
+UBERON_0010031|6th arch mesenchyme
+UBERON_0010034|copula linguae
+UBERON_0010042|1st arch mesenchyme
+UBERON_0010045|1st arch maxillary mesenchyme
+UBERON_0010057|hypopharyngeal eminence
+UBERON_0010083|future dermis
+UBERON_0010150|duct of major vestibular gland
+UBERON_0010171|strand of hair of face
+UBERON_0010188|protuberance
+UBERON_0010229|ruminant esophageal groove
+UBERON_0010252|1st arch mandibular mesenchyme from neural crest
+UBERON_0010253|1st arch maxillary mesenchyme from neural crest
+UBERON_0010254|2nd arch mesenchyme from neural crest
+UBERON_0010255|3rd arch mesenchyme from neural crest
+UBERON_0010256|4th arch mesenchyme from neural crest
+UBERON_0010257|6th arch mesenchyme from neural crest
+UBERON_0010259|1st arch mesenchyme from neural crest
+UBERON_0010328|limb bud mesenchyme
+UBERON_0010329|paired limb/fin bud mesenchyme
+UBERON_0010338|1st arch maxillary mesenchyme from head mesenchyme
+UBERON_0010339|1st arch mandibular mesenchyme from head mesenchyme
+UBERON_0010341|1st arch mesenchyme from head mesenchyme
+UBERON_0010343|2nd arch mesenchyme from head mesenchyme
+UBERON_0010344|3rd arch mesenchyme from head mesenchyme
+UBERON_0010345|4th arch mesenchyme from head mesenchyme
+UBERON_0010347|6th arch mesenchyme from head mesenchyme
+UBERON_0010402|epidermis suprabasal layer
+UBERON_0010419|vibrissa follicle
+UBERON_0010509|strand of pelage hair
+UBERON_0010510|strand of auchene hair
+UBERON_0010511|strand of awl hair
+UBERON_0010512|strand of guard hair
+UBERON_0010513|strand of zigzag hair
+UBERON_0010514|strand of duvet hair
+UBERON_0010515|brille
+UBERON_0010854|skin of front of neck
+UBERON_0010855|skin of forelimb wing
+UBERON_0010878|humeral patagium
+UBERON_0010880|gular fold
+UBERON_0010893|median external naris
+UBERON_0011087|pharyngeal arch 7
+UBERON_0011147|Verson's gland
+UBERON_0011154|gular region
+UBERON_0011190|lunule of nail
+UBERON_0011255|Eimer's organ
+UBERON_0011256|rhinarium
+UBERON_0011263|femoral gland
+UBERON_0011264|femoral pore
+UBERON_0011272|embryonic skin basal layer
+UBERON_0011273|nail of manual digit 1
+UBERON_0011274|nail of manual digit 2
+UBERON_0011275|nail of manual digit 3
+UBERON_0011276|nail of manual digit 4
+UBERON_0011277|nail of manual digit 5
+UBERON_0011278|nail of pedal digit 1
+UBERON_0011279|nail of pedal digit 2
+UBERON_0011280|nail of pedal digit 3
+UBERON_0011281|nail of pedal digit 4
+UBERON_0011282|nail of pedal digit 5
+UBERON_0011302|tunicate tunic
+UBERON_0011375|skin of prepuce of clitoris
+UBERON_0011638|pharyngeal arch 8
+UBERON_0011657|dermal element of plastron
+UBERON_0011658|epiplastron
+UBERON_0011659|entoplastron
+UBERON_0011660|hypoplastron
+UBERON_0011661|xiphiplastron
+UBERON_0011662|plastron-carapace bridge
+UBERON_0011663|anterior plastron-carapace bridge
+UBERON_0011664|posterior plastron-carapace bridge
+UBERON_0011665|carapace bone
+UBERON_0011666|peripheral plate of carapace
+UBERON_0011667|pleural plate of carapace
+UBERON_0011669|neural plate of carapace
+UBERON_0011670|pygal plate of carapace
+UBERON_0011671|nuchal plate of carapace
+UBERON_0011672|suprapygal plate of carapace
+UBERON_0011673|plastron scute
+UBERON_0011674|carapace scute
+UBERON_0011783|feather follicle placode
+UBERON_0011784|feather shaft
+UBERON_0011785|ramus of feather barb
+UBERON_0011786|ramus of feather barbule
+UBERON_0011792|feather muscle
+UBERON_0011793|flight feather
+UBERON_0011794|rectrix feather
+UBERON_0011795|remex feather
+UBERON_0011796|primary remex feather
+UBERON_0011797|secondary remex feather
+UBERON_0011798|tertial remex feather
+UBERON_0011800|dermal pulp of feather shaft
+UBERON_0011801|dermal condensation of feather follicle
+UBERON_0011806|dermis of feather follicle
+UBERON_0011807|epidermis of feather follicle
+UBERON_0011808|outer epidermal layer of feather follicle
+UBERON_0011809|inner epidermal layer of feather follicle
+UBERON_0011818|superficial fascia
+UBERON_0011827|areolar gland
+UBERON_0011844|duct of areolar gland
+UBERON_0011845|duct of sebaceous gland
+UBERON_0011846|acinus of sebaceous gland
+UBERON_0011854|acinus of areolar gland
+UBERON_0011856|acinus of lactiferous gland
+UBERON_0011865|corneal stroma collagen fibril
+UBERON_0011901|hair matrix
+UBERON_0011918|line of Schwalbe
+UBERON_0011931|nasal hair
+UBERON_0011932|pilosebaceous unit
+UBERON_0011933|vibrissa unit
+UBERON_0011936|vibrissa hair bulb
+UBERON_0011937|vibrissa root sheath
+UBERON_0011938|vibrissa inner root sheath
+UBERON_0011939|vibrissa outer root sheath
+UBERON_0011940|arrector pili muscle of vibrissa
+UBERON_0011950|mammary gland luminal epithelium
+UBERON_0012103|suspensory ligament of breast
+UBERON_0012127|feather barbicel
+UBERON_0012176|comb
+UBERON_0012177|skin apocrine gland
+UBERON_0012180|head or neck skin
+UBERON_0012243|nuptial pad
+UBERON_0012244|stratum intermedium of epidermis
+UBERON_0012281|perianal sebaceous gland
+UBERON_0012282|mammary fat pad
+UBERON_0012304|nasal diverticulum
+UBERON_0012305|marginal cutaneous pouch of ear
+UBERON_0012313|1st arch maxillary ectoderm
+UBERON_0012336|perianal skin
+UBERON_0012348|autopod pad
+UBERON_0012349|digital pad
+UBERON_0012350|carpal pad
+UBERON_0012447|podotheca
+UBERON_0012450|Meissner's corpuscle
+UBERON_0012457|Ruffini nerve ending
+UBERON_0012458|antler velvet
+UBERON_0013154|1st arch maxillary endoderm
+UBERON_0013155|1st arch mandibular ectoderm
+UBERON_0013156|1st arch mandibular endoderm
+UBERON_0013157|1st arch maxillary-mandibular cleft
+UBERON_0013196|strand of wool
+UBERON_0013206|nasal tentacle
+UBERON_0013211|cerumen gland
+UBERON_0013228|sweat gland of eyelid
+UBERON_0013231|sebaceous gland of eyelid
+UBERON_0013477|blowhole
+UBERON_0013487|epidermal ridge of digit
+UBERON_0013488|panniculus adiposus
+UBERON_0013489|superficial cervical fascia
+UBERON_0013494|keratin-coated spine
+UBERON_0013495|barbed keratin-coated spine
+UBERON_0013496|unbarbed keratin-coated spine
+UBERON_0013497|muscularis orbicularis
+UBERON_0013502|5th arch mesenchyme
+UBERON_0013622|manual autopod pad
+UBERON_0013623|pedal autopod pad
+UBERON_0013626|medial metatarsal pad
+UBERON_0013627|lateral metatarsal pad
+UBERON_0013628|pollical pad
+UBERON_0013629|hallical pad
+UBERON_0013640|internal cheek pouch
+UBERON_0013641|external cheek pouch
+UBERON_0013645|gular gland
+UBERON_0013698|strand of pubic hair
+UBERON_0013699|strand of axillary hair
+UBERON_0013703|integumentary projection
+UBERON_0013720|dartos muscle of labia majora
+UBERON_0013754|integumentary system layer
+UBERON_0013766|epicanthal fold
+UBERON_0013776|skin of palmar/plantar part of autopod
+UBERON_0013777|skin of palm of manus
+UBERON_0013778|skin of sole of pes
+UBERON_0014391|palmar/plantar sweat gland
+UBERON_0014455|subcutaneous abdominal adipose tissue
+UBERON_0014475|endostylar duct
+UBERON_0014480|blood feather
+UBERON_0014481|sex skin
+UBERON_0014482|ischial callosity
+UBERON_0014705|median lingual swelling epithelium
+UBERON_0014707|hyoplastron
+UBERON_0014708|costal plate of carapace
+UBERON_0014931|periungual skin
+UBERON_0015132|extralobar lactiferous duct
+UBERON_0015133|terminal lactiferous duct
+UBERON_0015134|main lactiferous duct
+UBERON_0015135|primary lactiferous duct
+UBERON_0015136|secondary lactiferous duct
+UBERON_0015137|tertiary lactiferous duct
+UBERON_0015138|quarternary lactiferous duct
+UBERON_0015144|autopod hair
+UBERON_0015145|pes hair
+UBERON_0015146|manus hair
+UBERON_0015147|pinna hair
+UBERON_0015148|tail hair
+UBERON_0015149|ventral hair
+UBERON_0015150|dorsal hair
+UBERON_0015249|digit skin
+UBERON_0015251|modified sebaceous gland
+UBERON_0015252|coat hair follicle
+UBERON_0015453|subcutaneous lymph node
+UBERON_0015474|axilla skin
+UBERON_0015476|nose skin
+UBERON_0015479|scrotum skin
+UBERON_0015484|skin of metapodial pad
+UBERON_0015783|smooth muscle layer in fatty layer of subcutaneous tissue
+UBERON_0015790|autopod skin
+UBERON_0015873|heel skin
+UBERON_0015886|root of nail
+UBERON_0016446|hair of head
+UBERON_0016447|hair of trunk
+UBERON_0016462|periorbital skin
+UBERON_0016475|skin of forehead
+UBERON_0016620|ventral throat pleat
+UBERON_0016622|lunge feeding organ papilla
+UBERON_0016624|lunge feeding vibrissa
+UBERON_0016852|skin scent gland
+UBERON_0016853|interdigital gland
+UBERON_0016910|frenulum of lip
+UBERON_0016912|frenulum of upper lip
+UBERON_0016913|frenulum of lower lip
+UBERON_0016915|vermilion
+UBERON_0016918|upper vermilion
+UBERON_0016919|lower vermilion
+UBERON_0017163|skin bony tubercle
+UBERON_0018134|rugal fold of scrotum
+UBERON_0018140|mammary lobe
+UBERON_0018150|skin of lower lip
+UBERON_0018151|skin of upper lip
+UBERON_0018232|axillary sweat gland
+UBERON_0018233|gland of Zeis
+UBERON_0018240|panniculus carnosus muscle
+UBERON_0018278|epidermal egg tooth
+UBERON_0018306|bulge
+UBERON_0018308|caudal melanophore spot
+UBERON_0018309|central figure of scute
+UBERON_0018310|cephalic dermal scale
+UBERON_0018312|cheek scale
+UBERON_0018314|choanal groove
+UBERON_0018317|dorsal osteoderm
+UBERON_0018339|metotic fissure
+UBERON_0018340|midbody melanophore spot
+UBERON_0018342|nuchal hump
+UBERON_0018355|rictal bristle
+UBERON_0018362|supracondylar tubercle
+UBERON_0018409|infra-orbital groove of maxilla
+UBERON_0018535|forelimb feather
+UBERON_0018536|wing feather
+UBERON_0018537|tail feather
+UBERON_0018538|breast feather
+UBERON_0018539|dorsal feather
+UBERON_0018656|puparium
+UBERON_0018688|hindlimb feather
+UBERON_0018689|crural feather
+UBERON_0019200|skin of anterior chest
+UBERON_0019204|skin epithelium
+UBERON_0019243|skin crease
+UBERON_0019246|palmar skin crease
+UBERON_0019247|plantar skin crease
+UBERON_0019254|upper eyelash
+UBERON_0019255|lower eyelash
+UBERON_0019319|exocrine gland of integumental system
+UBERON_0022279|strand of hair on external ear
+UBERON_0022285|strand of tylotrich hair
+UBERON_0022360|male mammary gland duct
+UBERON_0034717|integumental taste bud
+UBERON_0034718|barbel taste bud
+UBERON_0034719|lip taste bud
+UBERON_0034720|head taste bud
+UBERON_0034726|trunk taste bud
+UBERON_0034762|areolar sweat gland
+UBERON_0034765|glabella skin
+UBERON_0034930|auricular feather
+UBERON_0034941|blood sinus of vibrissa
+UBERON_0034942|vibrissal follicle-sinus complex
+UBERON_0034971|aortic body
+UBERON_0035073|duct of eccrine sweat gland
+UBERON_0035074|duct of apocrine sweat gland
+UBERON_0035501|unencapsulated tactile receptor
+UBERON_0035609|outer root sheath companion layer
+UBERON_0035610|hair canal
+UBERON_0035611|hair peg
+UBERON_1000003|dewlap
+UBERON_1000010|mole
+UBERON_1000015|skin of snout
+UBERON_1000021|skin of face
+UBERON_1000022|Zymbal's gland
+UBERON_2000040|median fin fold
+UBERON_2000052|dorsal actinotrichium
+UBERON_2000078|ventral actinotrichium
+UBERON_2000090|apical ectodermal ridge dorsal fin
+UBERON_2000102|dorsal fin fold
+UBERON_2000178|caudal peduncle
+UBERON_2000250|opercle
+UBERON_2000264|preopercle
+UBERON_2000284|subopercle
+UBERON_2000289|preopercle horizontal limb
+UBERON_2000298|vent
+UBERON_2000305|ventral sulcus
+UBERON_2000336|preopercle vertical limb
+UBERON_2000555|opercular flap
+UBERON_2000589|sulcus ypsiloniformis
+UBERON_2000622|barbel
+UBERON_2000674|interopercle
+UBERON_2000717|apical ectodermal ridge median fin fold
+UBERON_2000788|mesenchyme dorsal fin
+UBERON_2000912|mesenchyme median fin fold
+UBERON_2001069|ventral fin fold
+UBERON_2001118|urogenital papilla
+UBERON_2001179|epidermal superficial stratum
+UBERON_2001181|epidermal intermediate stratum
+UBERON_2001183|dermal superficial region
+UBERON_2001186|collagenous dermal stroma
+UBERON_2001426|posterior naris
+UBERON_2001427|anterior naris
+UBERON_2001450|apical ectodermal ridge pelvic fin
+UBERON_2001463|melanophore stripe
+UBERON_2001593|caudal fin upper lobe
+UBERON_2001594|caudal fin lower lobe
+UBERON_2001624|type 2 odontode
+UBERON_2001824|lateral line scale
+UBERON_2001921|adipose eyelid
+UBERON_2001935|oral disk
+UBERON_2001936|posterior nasal barbel
+UBERON_2001937|anterior nasal barbel
+UBERON_2001938|maxillary barbel
+UBERON_2001951|skin flap
+UBERON_2001968|outer mental barbel
+UBERON_2001969|inner mental barbel
+UBERON_2001977|pad
+UBERON_2001995|papilla
+UBERON_2002024|mental barbel
+UBERON_2002051|scale circulus
+UBERON_2002053|bony plate
+UBERON_2002108|buccal papilla
+UBERON_2002118|scale radius
+UBERON_2002119|dermal scale focus
+UBERON_2002122|pouch scale
+UBERON_2002124|nuptial tubercle
+UBERON_2002133|dorsal organ
+UBERON_2002195|epidermal placode
+UBERON_2002242|scale primordium
+UBERON_2002249|ctenius
+UBERON_2002273|ctenoid scale
+UBERON_2002274|transforming ctenoid scale
+UBERON_2002283|melanophore spot
+UBERON_2002284|body marking
+UBERON_2002285|cycloid scale
+UBERON_2005119|barbel primordium
+UBERON_2005220|larval melanophore stripe
+UBERON_2005221|dorsal larval melanophore stripe
+UBERON_2005222|ventral larval melanophore stripe
+UBERON_2005223|lateral larval melanophore stripe
+UBERON_2005224|yolk larval melanophore stripe
+UBERON_2005316|fin fold pectoral fin bud
+UBERON_3000961|external integument structure
+UBERON_3000972|head external integument structure
+UBERON_3000977|body external integument structure
+UBERON_3000981|limb external integument structure
+UBERON_3000982|tail external integument structure
+UBERON_3000989|pectoral fold
+UBERON_3000991|dorsal folds
+UBERON_3000994|longitudinal dorsal folds
+UBERON_3000995|transversal dorsal folds
+UBERON_3000999|dorsal pouch
+UBERON_3001003|cloacal fold
+UBERON_3001005|dorsolateral fold
+UBERON_3001007|body granules
+UBERON_3001008|body wart
+UBERON_3001009|body spicule
+UBERON_3001010|body tubercle
+UBERON_3010006|dorsal skin texture
+UBERON_3010010|ventral skin texture
+UBERON_3010011|axillary glands
+UBERON_3010014|inguinal glands
+UBERON_3010021|dorsal glands
+UBERON_3010031|ventral glands
+UBERON_3010044|dorsal crest
+UBERON_3010058|dermal annular fold
+UBERON_3010071|cranial crest
+UBERON_3010075|tympanic fold
+UBERON_3010079|upper eyelid protuberances
+UBERON_3010080|snout protuberances
+UBERON_3010081|interorbital fold
+UBERON_3010085|postrictal protuberances
+UBERON_3010091|upper lip protuberances
+UBERON_3010093|villosities
+UBERON_3010096|vocal sac
+UBERON_3010100|mental gland
+UBERON_3010103|vocal sac glands
+UBERON_3010104|pectoral glands
+UBERON_3010106|tympanic papilla
+UBERON_3010123|finger fringes
+UBERON_3010124|toe fringes
+UBERON_3010127|fringe on postaxial edge of finger IV
+UBERON_3010163|metacarpal fold
+UBERON_3010164|ulnar fold
+UBERON_3010166|fringe on postaxial edge of toe V
+UBERON_3010167|metatarsal fold
+UBERON_3010168|tarsal fringe
+UBERON_3010170|ungual flap
+UBERON_3010175|circumferential groove
+UBERON_3010178|finger glands
+UBERON_3010179|web glands
+UBERON_3010181|humeral glands
+UBERON_3010182|tibial glands
+UBERON_3010183|femoral glands
+UBERON_3010189|ulnar protuberances
+UBERON_3010190|tibial protuberances
+UBERON_3010191|calcar anterior
+UBERON_3010192|calcar posterior
+UBERON_3010193|prepollical protuberances
+UBERON_3010200|vasculature of respiratory integument
+UBERON_3010201|dorsal tail tubercle
+UBERON_3010202|tail base gland
+UBERON_3010203|dorsal tail fin
+UBERON_3010204|ventral tail fin
+UBERON_3010209|keratinous claw
+UBERON_3010226|postiliac glands
+UBERON_3010227|costal protuberances
+UBERON_3010229|costal grooves
+UBERON_3010231|costal folds
+UBERON_3010235|nuchal groove
+UBERON_3010239|subocular groove
+UBERON_3010241|labial fold
+UBERON_3010242|nasolabial groove
+UBERON_3010377|unicellular gland
+UBERON_3010599|stratum spongiosum
+UBERON_3010603|body gland
+UBERON_3010604|cranial glands
+UBERON_3010606|limb gland
+UBERON_3010721|limb villosities
+UBERON_3010802|courtship gland
+UBERON_3010813|vent glands
+UBERON_3010829|sulcus intermedius
+UBERON_4000051|lepidosteoid scale
+UBERON_4000052|ganoid scale
+UBERON_4000055|polypteroid scale
+UBERON_4000070|elasmoid scale
+UBERON_4000074|palaeoniscoid scale
+UBERON_4000080|keratin-based scale
+UBERON_4000081|cosmoid scale
+UBERON_4000104|ganoine
+UBERON_4000105|limiting layer of elasmoid scale
+UBERON_4000107|elasmodine
+UBERON_4100008|pedal claws
+UBERON_4200092|flexor tubercle of ungual
+UBERON_4200093|guard scale
+UBERON_4200151|toe disc
+UBERON_4200165|basal scute
+UBERON_4200179|manual claw
+UBERON_4200188|manual toe disc
+UBERON_4200189|pedal toe disc
+UBERON_4300004|scale pocket
+UBERON_4300031|fin web
+UBERON_4300102|postcleithral scale
+UBERON_4500003|predorsal scale
+UBERON_6004983|embryonic/larval cuticle
+UBERON_6004986|third instar larval cuticle
+UBERON_6005393|embryonic/larval integumentary system
+UBERON_6005396|adult integumentary system

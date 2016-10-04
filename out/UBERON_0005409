@@ -1,0 +1,278 @@
+UBERON_0000059|large intestine
+UBERON_0000159|anal canal
+UBERON_0000160|intestine
+UBERON_0000168|proximal-distal subdivision of colon
+UBERON_0000314|cecum mucosa
+UBERON_0000317|colonic mucosa
+UBERON_0000320|duodenal mucosa
+UBERON_0000325|gastric gland
+UBERON_0000331|ileal mucosa
+UBERON_0000333|intestinal gland
+UBERON_0000397|colonic epithelium
+UBERON_0000399|jejunal mucosa
+UBERON_0000400|jejunal epithelium
+UBERON_0000424|gastric pit
+UBERON_0000569|ileocecal valve
+UBERON_0000945|stomach
+UBERON_0001052|rectum
+UBERON_0001073|ileocecal junction
+UBERON_0001153|caecum
+UBERON_0001154|vermiform appendix
+UBERON_0001155|colon
+UBERON_0001156|ascending colon
+UBERON_0001157|transverse colon
+UBERON_0001158|descending colon
+UBERON_0001159|sigmoid colon
+UBERON_0001160|fundus of stomach
+UBERON_0001161|body of stomach
+UBERON_0001162|cardia of stomach
+UBERON_0001163|lesser curvature of stomach
+UBERON_0001164|greater curvature of stomach
+UBERON_0001165|pyloric antrum
+UBERON_0001166|pylorus
+UBERON_0001167|wall of stomach
+UBERON_0001168|wall of small intestine
+UBERON_0001169|wall of large intestine
+UBERON_0001170|mesentery of small intestine
+UBERON_0001199|mucosa of stomach
+UBERON_0001200|submucosa of stomach
+UBERON_0001201|serosa of stomach
+UBERON_0001202|pyloric sphincter
+UBERON_0001203|muscularis mucosae of stomach
+UBERON_0001204|mucosa of small intestine
+UBERON_0001205|submucosa of small intestine
+UBERON_0001206|serosa of small intestine
+UBERON_0001207|mucosa of large intestine
+UBERON_0001208|submucosa of large intestine
+UBERON_0001209|serosa of large intestine
+UBERON_0001210|muscularis mucosae of small intestine
+UBERON_0001211|Peyer's patch
+UBERON_0001213|intestinal villus
+UBERON_0001238|lamina propria of small intestine
+UBERON_0001239|muscularis mucosae of large intestine
+UBERON_0001240|muscularis mucosae of intestine
+UBERON_0001241|crypt of Lieberkuhn of small intestine
+UBERON_0001242|intestinal mucosa
+UBERON_0001243|serosa of intestine
+UBERON_0001247|falciform ligament
+UBERON_0001262|wall of intestine
+UBERON_0001276|epithelium of stomach
+UBERON_0001277|intestinal epithelium
+UBERON_0001278|epithelium of large intestine
+UBERON_0001357|inferior rectal artery
+UBERON_0001729|oropharynx
+UBERON_0001902|epithelium of small intestine
+UBERON_0001952|epithelium of oropharynx
+UBERON_0001983|crypt of Lieberkuhn
+UBERON_0001984|crypt of Lieberkuhn of large intestine
+UBERON_0002108|small intestine
+UBERON_0002115|jejunum
+UBERON_0002116|ileum
+UBERON_0002399|lesser omentum
+UBERON_0002439|myenteric nerve plexus
+UBERON_0003281|mesentery of stomach
+UBERON_0003329|submucosa of anal canal
+UBERON_0003330|submucosa of rectum
+UBERON_0003331|submucosa of colon
+UBERON_0003332|submucosa of duodenum
+UBERON_0003333|submucosa of jejunum
+UBERON_0003334|serosa of rectum
+UBERON_0003335|serosa of colon
+UBERON_0003336|serosa of duodenum
+UBERON_0003337|serosa of jejunum
+UBERON_0003342|mucosa of anal canal
+UBERON_0003346|mucosa of rectum
+UBERON_0003354|epithelium of rectum
+UBERON_0003395|mesentery of rectum
+UBERON_0003396|mesentery of colon
+UBERON_0003397|mesentery of duodenum
+UBERON_0003398|mesentery of jejunum
+UBERON_0003410|oropharyngeal gland
+UBERON_0003453|large intestine Peyer's patch
+UBERON_0003454|small intestine Peyer's patch
+UBERON_0003705|Meckel's diverticulum
+UBERON_0004220|large intestine smooth muscle
+UBERON_0004221|intestine smooth muscle
+UBERON_0004222|stomach smooth muscle
+UBERON_0004226|gastrointestinal system smooth muscle
+UBERON_0004239|small intestine smooth muscle
+UBERON_0004550|gastroesophageal sphincter
+UBERON_0004693|Peyer's patch epithelium
+UBERON_0004697|Peyer's patch germinal center
+UBERON_0004757|rectal salt gland
+UBERON_0004760|gland of anal canal
+UBERON_0004780|gastrointestinal system lamina propria
+UBERON_0004782|gastrointestinal system serosa
+UBERON_0004786|gastrointestinal system mucosa
+UBERON_0004808|gastrointestinal system epithelium
+UBERON_0004854|gastrointestinal system mesentery
+UBERON_0004907|lower digestive tract
+UBERON_0004913|hepatopancreatic ampulla
+UBERON_0004914|duodenal papilla
+UBERON_0004915|sphincter of hepatopancreatic ampulla
+UBERON_0004927|submucosa of cecum
+UBERON_0004928|submucosa of appendix
+UBERON_0004929|submucosa of ascending colon
+UBERON_0004930|submucosa of transverse colon
+UBERON_0004931|submucosa of descending colon
+UBERON_0004932|submucosa of sigmoid colon
+UBERON_0004933|submucosa of fundus of stomach
+UBERON_0004934|submucosa of body of stomach
+UBERON_0004935|submucosa of cardia of stomach
+UBERON_0004936|submucosa of pyloric antrum
+UBERON_0004937|submucosa of pylorus
+UBERON_0004946|submucosa of ileum
+UBERON_0004989|mucosa of appendix
+UBERON_0004990|mucosa of ascending colon
+UBERON_0004991|mucosa of transverse colon
+UBERON_0004992|mucosa of descending colon
+UBERON_0004993|mucosa of sigmoid colon
+UBERON_0004994|mucosa of fundus of stomach
+UBERON_0004995|mucosa of body of stomach
+UBERON_0004996|mucosa of cardia of stomach
+UBERON_0004997|mucosa of pyloric antrum
+UBERON_0004998|mucosa of pylorus
+UBERON_0005023|mucosa of oropharynx
+UBERON_0005052|gizzard
+UBERON_0005477|stomach fundus epithelium
+UBERON_0005602|dorsal mesogastrium
+UBERON_0005626|ventral mesogastrium
+UBERON_0005636|caecum epithelium
+UBERON_0005637|pyloric region epithelium
+UBERON_0005643|foregut duodenum epithelium
+UBERON_0005644|midgut duodenum epithelium
+UBERON_0005677|caecum mesentery
+UBERON_0005686|caecum dorsal mesentery
+UBERON_0005711|foregut duodenum mesentery
+UBERON_0005712|midgut duodenum mesentery
+UBERON_0006293|spleen primordium
+UBERON_0006359|mesoduodenum
+UBERON_0006574|pectinate line
+UBERON_0006921|stomach squamous epithelium
+UBERON_0006924|stomach glandular epithelium
+UBERON_0006931|stomach glandular region mucosa
+UBERON_0007177|lamina propria of mucosa of colon
+UBERON_0007178|muscularis mucosae of colon
+UBERON_0007357|proventriculus
+UBERON_0007358|abomasum
+UBERON_0007359|ruminant forestomach
+UBERON_0007361|ruminant reticulum
+UBERON_0007362|omasum
+UBERON_0007364|reticulorumen
+UBERON_0007365|rumen
+UBERON_0007366|ruminant stomach
+UBERON_0008285|rumen epithelium
+UBERON_0008342|intestinal villus of duodenum
+UBERON_0008343|intestinal villus of jejunum
+UBERON_0008344|intestinal villus of ileum
+UBERON_0008345|ileal epithelium
+UBERON_0008346|duodenal epithelium
+UBERON_0008791|rugal fold of stomach
+UBERON_0008827|murine forestomach
+UBERON_0008856|stomach muscularis externa
+UBERON_0008857|stomach smooth muscle circular layer
+UBERON_0008858|pyloric canal
+UBERON_0008859|cardiac gastric gland
+UBERON_0008860|intermediate gastric gland
+UBERON_0008861|pyloric gastric gland
+UBERON_0008862|stomach smooth muscle inner oblique layer
+UBERON_0008863|stomach smooth muscle outer longitudinal layer
+UBERON_0008971|left colon
+UBERON_0008972|right colon
+UBERON_0008994|equine glandular stomach
+UBERON_0009034|stomach region
+UBERON_0009130|dorsal meso-duodenum
+UBERON_0009566|intestinal submucosa
+UBERON_0009697|epithelium of appendix
+UBERON_0009870|zone of stomach
+UBERON_0009882|anal column
+UBERON_0009971|principal gastric gland
+UBERON_0010016|spiral valve of intestine
+UBERON_0010038|fundic gastric gland
+UBERON_0010039|food storage organ
+UBERON_0010040|stomach non-glandular epithelium
+UBERON_0010153|rumen papilla
+UBERON_0010154|inner lining mucosa of the abomasum
+UBERON_0010228|ruminal fluid
+UBERON_0010238|torus pylorus
+UBERON_0010239|spiral colon
+UBERON_0010386|Peyer's patch follicle
+UBERON_0010387|Peyer's patch T cell area
+UBERON_0011184|epithelium of crypt of Lieberkuhn
+UBERON_0011185|gastrointestinal sphincter
+UBERON_0011189|lamina propria of large intestine
+UBERON_0011198|muscle layer of large intestine
+UBERON_0011201|muscle layer of small intestine
+UBERON_0011903|gizzard smooth muscle
+UBERON_0011953|stomach glandular region
+UBERON_0011954|stomach non-glandular region
+UBERON_0012270|forestomach-glandular stomach junction
+UBERON_0012271|major duodenal papilla
+UBERON_0012272|minor duodenal papilla
+UBERON_0012367|muscle layer of intestine
+UBERON_0012377|muscle layer of jejunum
+UBERON_0012398|large intestine smooth muscle circular layer
+UBERON_0012399|large intestine smooth muscle longitudinal layer
+UBERON_0012401|small intestine smooth muscle circular layer
+UBERON_0012402|small intestine smooth muscle longitudinal layer
+UBERON_0012419|taenia coli
+UBERON_0012425|striated border microvillus layer
+UBERON_0012427|intestinal brush border layer
+UBERON_0012471|hepatogastric ligament
+UBERON_0012472|hepatoduodenal ligament
+UBERON_0012474|hepatic cecum
+UBERON_0012488|muscle layer of duodenum
+UBERON_0012489|muscle layer of colon
+UBERON_0012490|muscle layer of anal canal
+UBERON_0012494|muscularis mucosae of duodenum
+UBERON_0012497|muscularis mucosae of rectum
+UBERON_0012498|serosa of appendix
+UBERON_0012503|serosa of fundus of stomach
+UBERON_0012650|gastroduodenal junction
+UBERON_0012651|mucosa of gastroduodenal junction
+UBERON_0012652|colorectum
+UBERON_0013067|colorectal mucosa
+UBERON_0013478|cecal tonsil
+UBERON_0013481|crypt of Lieberkuhn of ileum
+UBERON_0013482|crypt of Lieberkuhn of duodenum
+UBERON_0013483|crypt of Lieberkuhn of jejunum
+UBERON_0013485|crypt of Lieberkuhn of colon
+UBERON_0013486|crypt of Lieberkuhn of appendix
+UBERON_0013636|epithelium of intestinal villus
+UBERON_0013689|appendix lymphoid tissue
+UBERON_0013695|colon endothelium
+UBERON_0013739|base of crypt of Lieberkuhn
+UBERON_0013740|wall of crypt of Lieberkuhn
+UBERON_0013741|base of crypt of Lieberkuhn of large intestine
+UBERON_0013742|wall of crypt of Lieberkuhn of large intestine
+UBERON_0013743|base of crypt of Lieberkuhn of small intestine
+UBERON_0013744|wall of crypt of Lieberkuhn of small intestine
+UBERON_0014390|muscle layer of ileum
+UBERON_0014510|lamina of omasum
+UBERON_0015142|falciform fat
+UBERON_0015716|anal canal epithelium
+UBERON_0015834|duodenum lamina propria
+UBERON_0016501|muscularis mucosae of fundus of stomach
+UBERON_0016511|lamina propria of fundus of stomach
+UBERON_0016517|lumen of jejunum
+UBERON_0016519|muscularis mucosae of jejunum
+UBERON_0017626|transverse folds of rectum
+UBERON_0017627|rectal valve
+UBERON_0018111|muscle layer of rectum
+UBERON_0018112|rectum smooth muscle tissue
+UBERON_0018410|lacteal
+UBERON_0022275|colic flexure
+UBERON_0022276|splenic flexure of colon
+UBERON_0022277|hepatic flexure of colon
+UBERON_0022280|epithelium of crypt of Lieberkuhn of small intestine
+UBERON_0022281|epithelium of crypt of Lieberkuhn of large intestine
+UBERON_0022357|mesentery of ileum
+UBERON_0035120|fauces
+UBERON_0035243|anal sinus
+UBERON_0035377|transverse fold of rectum
+UBERON_0035386|space of Mall
+UBERON_0035805|muscle layer of sigmoid colon
+UBERON_2001076|intestinal bulb
+UBERON_2005126|intestinal bulb epithelium
+UBERON_2005256|intervillus pockets
+UBERON_2005273|intestinal mucosal muscle

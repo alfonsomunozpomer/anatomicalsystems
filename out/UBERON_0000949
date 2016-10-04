@@ -1,0 +1,173 @@
+UBERON_0000006|islet of Langerhans
+UBERON_0000007|pituitary gland
+UBERON_0000016|endocrine pancreas
+UBERON_0001053|arthropod neurohemal organ
+UBERON_0001056|corpus cardiacum
+UBERON_0001057|corpus allatum
+UBERON_0001113|lobe of liver
+UBERON_0001114|right lobe of liver
+UBERON_0001115|left lobe of liver
+UBERON_0001116|quadrate lobe of liver
+UBERON_0001117|caudate lobe of liver
+UBERON_0001118|lobe of thyroid gland
+UBERON_0001119|right lobe of thyroid gland
+UBERON_0001120|left lobe of thyroid gland
+UBERON_0001132|parathyroid gland
+UBERON_0001143|hepatic vein
+UBERON_0001149|bare area of liver
+UBERON_0001171|portal lobule
+UBERON_0001172|hepatic acinus
+UBERON_0001233|right adrenal gland
+UBERON_0001234|left adrenal gland
+UBERON_0001235|adrenal cortex
+UBERON_0001236|adrenal medulla
+UBERON_0001237|paraaortic body
+UBERON_0001246|interlobular bile duct
+UBERON_0001247|falciform ligament
+UBERON_0001279|portal triad
+UBERON_0001280|liver parenchyma
+UBERON_0001281|hepatic sinusoid
+UBERON_0001282|intralobular bile duct
+UBERON_0001283|bile canaliculus
+UBERON_0001609|isthmus of thyroid gland
+UBERON_0001746|capsule of thyroid gland
+UBERON_0001747|parenchyma of thyroid gland
+UBERON_0001748|capsule of parathyroid gland
+UBERON_0001749|parenchyma of parathyroid gland
+UBERON_0001761|future foramen cecum
+UBERON_0001905|pineal body
+UBERON_0002046|thyroid gland
+UBERON_0002053|zona glomerulosa of adrenal gland
+UBERON_0002054|zona fasciculata of adrenal gland
+UBERON_0002055|zona reticularis of adrenal gland
+UBERON_0002107|liver
+UBERON_0002123|cortex of thymus
+UBERON_0002124|medulla of thymus
+UBERON_0002125|thymus lobule
+UBERON_0002139|subcommissural organ
+UBERON_0002196|adenohypophysis
+UBERON_0002197|median eminence of neurohypophysis
+UBERON_0002198|neurohypophysis
+UBERON_0002254|thyroglossal duct
+UBERON_0002368|endocrine gland
+UBERON_0002369|adrenal gland
+UBERON_0002370|thymus
+UBERON_0002432|pars intermedia of adenohypophysis
+UBERON_0002433|pars tuberalis of adenohypophysis
+UBERON_0002434|pituitary stalk
+UBERON_0002512|corpus luteum
+UBERON_0002648|anterior median eminence
+UBERON_0002652|posterior median eminence
+UBERON_0003091|thyroid primordium
+UBERON_0003092|ultimobranchial body
+UBERON_0003217|neural lobe of neurohypophysis
+UBERON_0003261|thyroid primordium endoderm
+UBERON_0003483|thymus lymphoid tissue
+UBERON_0003704|intrahepatic bile duct
+UBERON_0003846|thymus epithelium
+UBERON_0003987|Hassall's corpuscle
+UBERON_0003988|thymus corticomedullary boundary
+UBERON_0004058|biliary ductule
+UBERON_0004092|hypothalamus-pituitary axis
+UBERON_0004647|liver lobule
+UBERON_0004791|thymus trabecula
+UBERON_0004792|secretion of endocrine pancreas
+UBERON_0004823|intrahepatic bile duct epithelium
+UBERON_0004827|thyroid gland medulla
+UBERON_0005050|liver papillary process
+UBERON_0005221|liver right lobe parenchyma
+UBERON_0005222|liver left lobe parenchyma
+UBERON_0005305|thyroid follicle
+UBERON_0005452|hepatic cord
+UBERON_0005605|intrahepatic part of hepatic duct
+UBERON_0005642|ultimobranchial body epithelium
+UBERON_0006377|remnant of Rathke's pouch
+UBERON_0006588|round ligament of liver
+UBERON_0006727|liver left lateral lobe
+UBERON_0006728|liver left medial lobe
+UBERON_0006729|liver perisinusoidal space
+UBERON_0006749|superior parathyroid gland
+UBERON_0006755|inferior parathyroid gland
+UBERON_0006841|central vein of liver
+UBERON_0006856|interrenal gland
+UBERON_0006858|adrenal/interrenal gland
+UBERON_0006870|endostyle
+UBERON_0006877|vasculature of liver
+UBERON_0006925|digestive gland
+UBERON_0006936|thymus subcapsular epithelium
+UBERON_0006964|pars distalis of adenohypophysis
+UBERON_0007132|head kidney
+UBERON_0009024|adrenal gland X zone
+UBERON_0009114|cervical thymus
+UBERON_0009115|thoracic thymus
+UBERON_0009116|thymoid
+UBERON_0009548|hepatic sinusoid of left of lobe of liver
+UBERON_0009549|hepatic sinusoid of right of lobe of liver
+UBERON_0009753|adrenal gland cortex zone
+UBERON_0009860|ascidian digestive gland
+UBERON_0009975|remnant of lumen of Rathke's pouch
+UBERON_0009976|hypothalamo-hypophyseal system
+UBERON_0010074|chromaffin system
+UBERON_0010133|neuroendocrine gland
+UBERON_0010134|secretory circumventricular organ
+UBERON_0010183|liver trabecula
+UBERON_0010233|stroma of thyroid gland
+UBERON_0010264|hepatopancreas
+UBERON_0010265|mollusc hepatopancreas
+UBERON_0010266|arthropod hepatopancreas
+UBERON_0010704|parenchyma of quadrate lobe of liver
+UBERON_0010706|parenchyma of caudate lobe of liver
+UBERON_0011195|inferior parathyroid epithelium
+UBERON_0011196|superior parathyroid epithelium
+UBERON_0011197|parathyroid epithelium
+UBERON_0011359|urophysis
+UBERON_0011737|caudate lobe hepatic sinusoids
+UBERON_0011738|quadrate lobe hepatic sinusoids
+UBERON_0011768|pineal gland stalk
+UBERON_0011955|left hepatic vein
+UBERON_0011956|right hepatic vein
+UBERON_0011957|middle hepatic vein
+UBERON_0012279|chromaffin paraganglion
+UBERON_0012325|retrocerebral complex
+UBERON_0012363|thyroid follicle epithelium
+UBERON_0012364|colloid of thyroid follicle
+UBERON_0013138|coronary ligament of liver
+UBERON_0013139|ligament of liver
+UBERON_0013745|zona intermedia of adrenal gland
+UBERON_0014400|hepatic sinusoidal space
+UBERON_0014475|endostylar duct
+UBERON_0014779|liver reticuloendothelial system
+UBERON_0015142|falciform fat
+UBERON_0015455|accessory hepatic vein
+UBERON_0015481|left hepatic artery
+UBERON_0015482|right hepatic artery
+UBERON_0015796|liver blood vessel
+UBERON_0016478|liver stroma
+UBERON_0016480|interlobular stroma of liver
+UBERON_0016890|intrahepatic branch of portal vein
+UBERON_0017632|pineal corpora arenacea
+UBERON_0018229|renin-angiotensin system
+UBERON_0018244|superficial cervical thymus
+UBERON_0018245|deep cervical thymus
+UBERON_0018268|type 1 adrenal tissue
+UBERON_0018269|type 2 adrenal tissue
+UBERON_0018270|type 3 adrenal tissue
+UBERON_0018271|type 4 adrenal tissue
+UBERON_0018303|adrenal tissue
+UBERON_0023752|intermediate part of hypophysis
+UBERON_0027109|lateral eminence of hypophysis
+UBERON_0034907|pineal parenchyma
+UBERON_0035075|thymus subunit
+UBERON_0035444|triangular ligament of liver
+UBERON_0035756|capillary network of liver
+UBERON_0035825|left adrenal gland cortex
+UBERON_0035826|left adrenal gland medulla
+UBERON_0035827|right adrenal gland cortex
+UBERON_0035828|right adrenal gland medulla
+UBERON_2001200|corpuscles of Stannius
+UBERON_2001371|pancreatic system
+UBERON_2005174|ventral liver lobe
+UBERON_2007004|epiphysial cluster
+UBERON_3010404|capillary system of liver
+UBERON_3010541|median pars intermedia
+UBERON_3010752|lobe
