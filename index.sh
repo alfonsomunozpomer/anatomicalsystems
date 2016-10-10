@@ -26,3 +26,5 @@ done
 
 echo -ne "Done! Errors: "
 find ./log -type f | xargs grep Error
+
+./join_files.py
