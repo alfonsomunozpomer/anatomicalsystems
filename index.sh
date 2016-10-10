@@ -27,4 +27,11 @@ done
 echo -ne "Done! Errors: "
 find ./log -type f | xargs grep Error
 
+echo "Generating anatomical_systems.txt ..."
 ./join_files.py
+if [ $(hostname) -eq "wbazant-ml"]
+then
+  cp ./out/anatomical_systems.txt ~/ATLAS3.TEST/integration-test-data/ontology
+else
+  echo "You can update the anatomical_systems.txt now"
+fi
