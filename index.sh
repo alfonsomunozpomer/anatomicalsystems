@@ -29,12 +29,13 @@ find ./log -type f | xargs grep Error
 
 echo "Generating anatomical_systems.txt ..."
 ./join_files.py
-if [ $(hostname) -eq "wbazant-ml"]
+if [ "$(hostname)" == "wbazant-ml" ]
 then
   cp ./out/anatomical_systems.txt $SRC/resources
   pushd .
   cd $SRC/resources
-  if [$(git diff --name-only --cached | wc -l ) != 0 ] then
+  if [ "$(git diff --name-only --cached | wc -l )" != 0 ]
+  then
     echo "Dirty worktree, commit anatomical_systems.txt by yourself: " ; git diff --name-only --cached
   else
     git commit $SRC/resources/anatomical_systems.txt -m "Anatomical systems file"
